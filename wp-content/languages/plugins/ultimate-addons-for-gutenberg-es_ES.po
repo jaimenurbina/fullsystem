@@ -1,0 +1,4881 @@
+# Translation of Plugins - Gutenberg Blocks – Ultimate Addons for Gutenberg - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Gutenberg Blocks – Ultimate Addons for Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-24 16:56:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Gutenberg Blocks – Ultimate Addons for Gutenberg - Stable (latest release)\n"
+
+#: dist/blocks.build.js:98972
+msgid "Table Of Contents"
+msgstr "Tabla de contenidos"
+
+#: dist/blocks.build.js:98769 dist/blocks.build.js:98819
+#: dist/blocks.build.js:98869
+msgid "List Margin"
+msgstr "Margen de la lista"
+
+#: dist/blocks.build.js:98356
+msgid "Table's width will be auto if this is kept off."
+msgstr "El ancho de la tabla será automático si esto está desactivado."
+
+#: dist/blocks.build.js:98309
+msgid "Content Hover Color"
+msgstr "Color del contenido al pasar el cursor"
+
+#: dist/blocks.build.js:98174 dist/blocks.build.js:98212
+#: dist/blocks.build.js:98250
+msgid "Gap Between Lists"
+msgstr "Separación entre listas"
+
+#: dist/blocks.build.js:98124
+msgid "Disable Bullet points"
+msgstr "Desactivar viñetas"
+
+#: dist/blocks.build.js:98091
+msgid "Keep Collapsed Initially"
+msgstr "Mantener inicialmente cerrado"
+
+#: dist/blocks.build.js:98081
+msgid "Make Content Collapsible"
+msgstr "Hacer que el contenido se pueda cerrar"
+
+#: dist/blocks.build.js:98078
+msgid "Collapsible"
+msgstr "Desplegable"
+
+#: dist/blocks.build.js:98055
+msgid "headingLineHeightTablet"
+msgstr "headingLineHeightTablet"
+
+#: dist/blocks.build.js:98054
+msgid "headingLineHeightMobile"
+msgstr "headingLineHeightMobile"
+
+#: dist/blocks.build.js:98053
+msgid "headingLineHeight"
+msgstr "headingLineHeight"
+
+#: dist/blocks.build.js:98052
+msgid "headingLineHeightType"
+msgstr "headingLineHeightType"
+
+#: dist/blocks.build.js:98051
+msgid "headingFontSizeTablet"
+msgstr "headingFontSizeTablet"
+
+#: dist/blocks.build.js:98050
+msgid "headingFontSizeMobile"
+msgstr "headingFontSizeMobile"
+
+#: dist/blocks.build.js:98049
+msgid "headingFontSize"
+msgstr "headingFontSize"
+
+#: dist/blocks.build.js:98048
+msgid "headingFontSizeType"
+msgstr "headingFontSizeType"
+
+#: dist/blocks.build.js:98047
+msgid "headingFontSubset"
+msgstr "headingFontSubset"
+
+#: dist/blocks.build.js:98046
+msgid "headingFontWeight"
+msgstr "headingFontWeight"
+
+#: dist/blocks.build.js:98045
+msgid "headingFontFamily"
+msgstr "headingFontFamily"
+
+#: dist/blocks.build.js:98044
+msgid "headingLoadGoogleFonts"
+msgstr "headingLoadGoogleFonts"
+
+#: dist/blocks.build.js:98031
+msgid "Bottom Space"
+msgstr "Espacio inferior"
+
+#: dist/blocks.build.js:97978
+msgid "This will add a Scroll to Top arrow at the bottom of page."
+msgstr "Esto añadirá una flecha para desplazarse hacia al parte superior de la página."
+
+#: dist/blocks.build.js:97976
+msgid "Show Scroll To Top"
+msgstr "Mostrar «Volver a arriba»"
+
+#: dist/blocks.build.js:97965
+msgid "Scroll Animation Delay (ms)"
+msgstr "Retraso de la animación al desplazar (ms)"
+
+#: dist/blocks.build.js:97956
+msgid "Smooth Scroll Offset (px)"
+msgstr "Desplazamiento del scroll suave (px)"
+
+#: dist/blocks.build.js:97947
+msgid "This will be in Action only in Front End."
+msgstr "Este solo entrará en acción en la vista pública."
+
+#: dist/blocks.build.js:97945
+msgid "Smooth Scroll"
+msgstr "Desplazamiento suave"
+
+#: dist/blocks.build.js:97918
+msgid "Select the heading to consider when generating the table"
+msgstr "Selecciona el encabezado a considerar al generar la tabla"
+
+#: dist/blocks.build.js:97161
+msgid "table"
+msgstr "tabla"
+
+#: dist/blocks.build.js:97161
+msgid "table of contents"
+msgstr "tabla de contenidos"
+
+#: dist/blocks.build.js:96811
+msgid "Add Button Description…"
+msgstr "Añadir la descripción del botón…"
+
+#: dist/blocks.build.js:96785
+msgid "Add Button Title…"
+msgstr "Añadir el título del botón…"
+
+#: dist/blocks.build.js:96570
+msgid "Transparent"
+msgstr "Transparente"
+
+#: dist/blocks.build.js:96562
+msgid "Button Background"
+msgstr "Fondo del botón"
+
+#: dist/blocks.build.js:96359
+msgid "Description Hover Color"
+msgstr "Color de la descripción al pasar el cursor"
+
+#: dist/blocks.build.js:96325
+msgid "Title Hover Color"
+msgstr "Color del título al pasar el cursor"
+
+#: dist/blocks.build.js:96228
+msgid "loadPrefixGoogleFonts"
+msgstr "loadPrefixGoogleFonts"
+
+#: dist/blocks.build.js:96205
+msgid "loadTitleGoogleFonts"
+msgstr "loadTitleGoogleFonts"
+
+#: dist/blocks.build.js:96174
+msgid "iconFontSizeTablet"
+msgstr "iconFontSizeTablet"
+
+#: dist/blocks.build.js:96173
+msgid "iconFontSizeMobile"
+msgstr "iconFontSizeMobile"
+
+#: dist/blocks.build.js:96172
+msgid "iconFontSize"
+msgstr "iconFontSize"
+
+#: dist/blocks.build.js:96171
+msgid "iconFontSizeType"
+msgstr "iconFontSizeType"
+
+#: dist/blocks.build.js:96122
+msgid "Text Alignment"
+msgstr "Alineación del texto"
+
+#: dist/blocks.build.js:96115
+msgid "Open link in New Tab"
+msgstr "Abre el enlace en una nueva pestaña"
+
+#: dist/blocks.build.js:95515
+msgid "marketing button"
+msgstr "botón de marketing"
+
+#: dist/blocks.build.js:94697
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: dist/blocks.build.js:94683 dist/blocks.build.js:94691
+msgid "Twitter Username"
+msgstr "Nombre de usuario de Twitter"
+
+#: dist/blocks.build.js:94660
+msgid "Inline Quote"
+msgstr "Cita integrada"
+
+#: dist/blocks.build.js:94642
+msgid "Normal Quote"
+msgstr "Cita normal"
+
+#: dist/blocks.build.js:94577
+msgid "Space between Tweet Icon and Text"
+msgstr "Espacio entre el icono de Twitter y el texto"
+
+#: dist/blocks.build.js:94528
+msgid "Custom URL"
+msgstr "URL personalizada"
+
+#: dist/blocks.build.js:94528
+msgid "Current Page"
+msgstr "Página actual"
+
+#: dist/blocks.build.js:94523
+msgid "Target URL"
+msgstr "URL de destino"
+
+#: dist/blocks.build.js:94520
+msgid "tweetBtnLineHeightTablet"
+msgstr "tweetBtnLineHeightTablet"
+
+#: dist/blocks.build.js:94519
+msgid "tweetBtnLineHeightMobile"
+msgstr "tweetBtnLineHeightMobile"
+
+#: dist/blocks.build.js:94518
+msgid "tweetBtnLineHeight"
+msgstr "tweetBtnLineHeight"
+
+#: dist/blocks.build.js:94517
+msgid "tweetBtnLineHeightType"
+msgstr "tweetBtnLineHeightType"
+
+#: dist/blocks.build.js:94516
+msgid "tweetBtnFontSizeTablet"
+msgstr "tweetBtnFontSizeTablet"
+
+#: dist/blocks.build.js:94515
+msgid "tweetBtnFontSizeMobile"
+msgstr "tweetBtnFontSizeMobile"
+
+#: dist/blocks.build.js:94514
+msgid "tweetBtnFontSize"
+msgstr "tweetBtnFontSize"
+
+#: dist/blocks.build.js:94513
+msgid "tweetBtnFontSizeType"
+msgstr "tweetBtnFontSizeType"
+
+#: dist/blocks.build.js:94512
+msgid "tweetBtnFontSubset"
+msgstr "tweetBtnFontSubset"
+
+#: dist/blocks.build.js:94511
+msgid "tweetBtnFontWeight"
+msgstr "tweetBtnFontWeight"
+
+#: dist/blocks.build.js:94510
+msgid "tweetBtnFontFamily"
+msgstr "tweetBtnFontFamily"
+
+#: dist/blocks.build.js:94509
+msgid "tweetBtnLoadGoogleFonts"
+msgstr "tweetBtnLoadGoogleFonts"
+
+#: dist/blocks.build.js:94487
+msgid "Bubble"
+msgstr "Burbuja"
+
+#: dist/blocks.build.js:94487
+msgid "Classic"
+msgstr "Clásico"
+
+#: dist/blocks.build.js:94482
+msgid "Icon Style"
+msgstr "Estilo del icono"
+
+#: dist/blocks.build.js:94479
+msgid "Icon & Text"
+msgstr "Icono y texto"
+
+#: dist/blocks.build.js:94474
+msgid "Icon View"
+msgstr "Vista de iconos"
+
+#: dist/blocks.build.js:94464
+msgid "Enable Twitter Icon"
+msgstr "Activar icono de Twitter"
+
+#: dist/blocks.build.js:94462
+msgid "Twitter Icon"
+msgstr "Icono de Twitter"
+
+#: dist/blocks.build.js:94444
+msgid "Vertical Padding"
+msgstr "Relleno vertical"
+
+#: dist/blocks.build.js:94416
+msgid "Quote Bottom Spacing"
+msgstr "Espacio inferior de la cita"
+
+#: dist/blocks.build.js:94406
+msgid "Gap Between Border and Quote"
+msgstr "Hueco entre el borde y la cita"
+
+#: dist/blocks.build.js:94357
+msgid "Quote Icon Margin (px)"
+msgstr "Margen del icono de la cita (px)"
+
+#: dist/blocks.build.js:94331
+msgid "Tweet Background Hover Color"
+msgstr "Color de fondo del tuit al pasar el cursor"
+
+#: dist/blocks.build.js:94293 dist/blocks.build.js:94314
+msgid "Tweet Hover Color"
+msgstr "Color del tuit al pasar el cursor"
+
+#: dist/blocks.build.js:94267
+msgid "Tweet Background Color"
+msgstr "Color de fondo del tuit"
+
+#: dist/blocks.build.js:94229 dist/blocks.build.js:94250
+msgid "Tweet Color"
+msgstr "Color del tuit"
+
+#: dist/blocks.build.js:94162
+msgid "Quote Color"
+msgstr "Color de la cita"
+
+#: dist/blocks.build.js:94140
+msgid "Quote"
+msgstr "Cita"
+
+#: dist/blocks.build.js:93990
+msgid "Author Image Rounded Corners"
+msgstr "Esquinas redondeadas de la imagen del autor"
+
+#: dist/blocks.build.js:93979
+msgid "Author Image Width"
+msgstr "Anchura de la imagen del autor"
+
+#: dist/blocks.build.js:93971
+msgid "Author Image Size"
+msgstr "Tamaño de la imagen del autor"
+
+#: dist/blocks.build.js:93963
+msgid "Author Image Position"
+msgstr "Posición de la imagen del autor"
+
+#: dist/blocks.build.js:93938
+msgid "Author Image"
+msgstr "Imagen del autor"
+
+#: dist/blocks.build.js:93924
+msgid "Note: Choose on what breakpoint the elements will stack."
+msgstr "Nota: Escoge en qué puntos de ruptura se apilarán los elementos."
+
+#: dist/blocks.build.js:93889
+msgid "Quote Icon Colors"
+msgstr "Colores del icono de la cita"
+
+#: dist/blocks.build.js:93873
+msgid "Quotation"
+msgstr "Cita"
+
+#: dist/blocks.build.js:93873
+msgid "Modern"
+msgstr "Moderno"
+
+#: dist/blocks.build.js:93857
+msgid "Quote Icon Border Radius (%)"
+msgstr "Radio del borde del icono de la cita (%)"
+
+#: dist/blocks.build.js:93717 dist/blocks.build.js:93735
+#: dist/blocks.build.js:93753
+msgid "Quote Icon Size"
+msgstr "Tamaño del icono de la cita"
+
+#: dist/blocks.build.js:93690
+msgid "Quotation Layout - Styling"
+msgstr "Diseño de la cita — Estilos"
+
+#: dist/blocks.build.js:93665
+msgid "Quote Border Style"
+msgstr "Estilo de borde de la cita"
+
+#: dist/blocks.build.js:93662
+msgid "Modern Layout - Styling"
+msgstr "Diseño moderno — Estilos"
+
+#: dist/blocks.build.js:93263
+msgid "uagb"
+msgstr "uagb"
+
+#: dist/blocks.build.js:93263
+msgid "quote"
+msgstr "cita"
+
+#: dist/blocks.build.js:93263
+msgid "blockquote"
+msgstr "cita"
+
+#: dist/blocks.build.js:92422
+msgid "successMsgLineHeightTablet"
+msgstr "successMsgLineHeightTablet"
+
+#: dist/blocks.build.js:92421
+msgid "successMsgLineHeightMobile"
+msgstr "successMsgLineHeightMobile"
+
+#: dist/blocks.build.js:92420
+msgid "successMsgLineHeight"
+msgstr "successMsgLineHeight"
+
+#: dist/blocks.build.js:92419
+msgid "successMsgLineHeightType"
+msgstr "successMsgLineHeightType"
+
+#: dist/blocks.build.js:92418
+msgid "successMsgFontSizeTablet"
+msgstr "successMsgFontSizeTablet"
+
+#: dist/blocks.build.js:92417
+msgid "successMsgFontSizeMobile"
+msgstr "successMsgFontSizeMobile"
+
+#: dist/blocks.build.js:92416
+msgid "successMsgFontSize"
+msgstr "successMsgFontSize"
+
+#: dist/blocks.build.js:92415
+msgid "successMsgFontSizeType"
+msgstr "successMsgFontSizeType"
+
+#: dist/blocks.build.js:92414
+msgid "successMsgFontSubset"
+msgstr "successMsgFontSubset"
+
+#: dist/blocks.build.js:92413
+msgid "successMsgFontWeight"
+msgstr "successMsgFontWeight"
+
+#: dist/blocks.build.js:92412
+msgid "successMsgFontFamily"
+msgstr "successMsgFontFamily"
+
+#: dist/blocks.build.js:92411
+msgid "successMsgLoadGoogleFonts"
+msgstr "successMsgLoadGoogleFonts"
+
+#: dist/blocks.build.js:92408
+msgid "Success Message Typography"
+msgstr "Tipografía del mensaje exitoso"
+
+#: dist/blocks.build.js:92393
+msgid "Success Message Color"
+msgstr "Color del mensaje exitoso"
+
+#: dist/blocks.build.js:92388
+msgid "Form Success Validation"
+msgstr "Validación exitosa del formulario"
+
+#: dist/blocks.build.js:92288
+msgid "Error Message Border Color"
+msgstr "Color de borde del mensaje de error"
+
+#: dist/blocks.build.js:92271
+msgid "Error Message Background Color"
+msgstr "Color de fondo del mensaje de error"
+
+#: dist/blocks.build.js:92254
+msgid "Error Message Color"
+msgstr "Color del mensaje de error"
+
+#: dist/blocks.build.js:92249
+msgid "Form Error Validation"
+msgstr "Error de validación del formulario"
+
+#: dist/blocks.build.js:92197
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: dist/blocks.build.js:92154
+msgid "Note: This styling can be only seen on frontend"
+msgstr "Nota: Estos estilos solo se pueden ver en la vista pública"
+
+#: dist/blocks.build.js:91653
+msgid "Select a Gravity Form"
+msgstr "Selecciona un formulario de Gravity Form"
+
+#: dist/blocks.build.js:91636
+msgid "Title & Description Alignment"
+msgstr "Alineación del título y la descripción"
+
+#: dist/blocks.build.js:91633
+msgid "Hide"
+msgstr "Ocultar"
+
+#: dist/blocks.build.js:91633
+msgid "Show"
+msgstr "Ver"
+
+#: dist/blocks.build.js:91628
+msgid "Title & Description"
+msgstr "Título y descripción"
+
+#: dist/blocks.build.js:91617
+msgid "Tab Index"
+msgstr "Índice de la pestaña"
+
+#: dist/blocks.build.js:91582
+msgid "TextArea Height"
+msgstr "Altura del área de texto"
+
+#: dist/blocks.build.js:91012
+msgid "gravity form styler"
+msgstr "estilizador de gravity form"
+
+#: dist/blocks.build.js:91012
+msgid "GF styler"
+msgstr "Estilizador de GF"
+
+#: dist/blocks.build.js:90448 dist/blocks.build.js:92463
+msgid "Loading"
+msgstr "Cargando"
+
+#: dist/blocks.build.js:90385 dist/blocks.build.js:92343
+msgid "Message Padding (px)"
+msgstr "Espaciado interior del mensaje (px)"
+
+#: dist/blocks.build.js:90372 dist/blocks.build.js:92331
+msgid "Message Border Radius"
+msgstr "Radio de borde del mensaje"
+
+#: dist/blocks.build.js:90344 dist/blocks.build.js:92303
+msgid "Message Border Width (px)"
+msgstr "Ancho de borde del mensaje (px)"
+
+#: dist/blocks.build.js:90289
+msgid "Error Message"
+msgstr "Mensaje de error"
+
+#: dist/blocks.build.js:90271 dist/blocks.build.js:90328
+msgid "Message Border Color"
+msgstr "Color de borde del mensaje"
+
+#: dist/blocks.build.js:90237 dist/blocks.build.js:90294
+#: dist/blocks.build.js:92165
+msgid "Message Color"
+msgstr "Color del mensaje"
+
+#: dist/blocks.build.js:90232
+msgid "Success Message"
+msgstr "Mensaje de éxito"
+
+#: dist/blocks.build.js:90226 dist/blocks.build.js:92382
+msgid "msgLineHeightTablet"
+msgstr "msgLineHeightTablet"
+
+#: dist/blocks.build.js:90225 dist/blocks.build.js:92381
+msgid "msgLineHeightMobile"
+msgstr "msgLineHeightMobile"
+
+#: dist/blocks.build.js:90224 dist/blocks.build.js:92380
+msgid "msgLineHeight"
+msgstr "msgLineHeight"
+
+#: dist/blocks.build.js:90223 dist/blocks.build.js:92379
+msgid "msgLineHeightType"
+msgstr "msgLineHeightType"
+
+#: dist/blocks.build.js:90222 dist/blocks.build.js:92378
+msgid "msgFontSizeTablet"
+msgstr "msgFontSizeTablet"
+
+#: dist/blocks.build.js:90221 dist/blocks.build.js:92377
+msgid "msgFontSizeMobile"
+msgstr "msgFontSizeMobile"
+
+#: dist/blocks.build.js:90220 dist/blocks.build.js:92376
+msgid "msgFontSize"
+msgstr "msgFontSize"
+
+#: dist/blocks.build.js:90219 dist/blocks.build.js:92375
+msgid "msgFontSizeType"
+msgstr "msgFontSizeType"
+
+#: dist/blocks.build.js:90218 dist/blocks.build.js:92374
+msgid "msgFontSubset"
+msgstr "msgFontSubset"
+
+#: dist/blocks.build.js:90217 dist/blocks.build.js:92373
+msgid "msgFontWeight"
+msgstr "msgFontWeight"
+
+#: dist/blocks.build.js:90216 dist/blocks.build.js:92372
+msgid "msgFontFamily"
+msgstr "msgFontFamily"
+
+#: dist/blocks.build.js:90215 dist/blocks.build.js:92371
+msgid "msgLoadGoogleFonts"
+msgstr "msgLoadGoogleFonts"
+
+#: dist/blocks.build.js:90209
+msgid "Form Success / Error Validation"
+msgstr "Formulario correcto / Validación de errores"
+
+#: dist/blocks.build.js:90190 dist/blocks.build.js:92230
+msgid "Highlight Border Color"
+msgstr "Color de borde del resaltado"
+
+#: dist/blocks.build.js:90178
+msgid "Highlight Borders"
+msgstr "Bordes del resaltado"
+
+#: dist/blocks.build.js:90161 dist/blocks.build.js:90254
+#: dist/blocks.build.js:90311
+msgid "Message Background Color"
+msgstr "Color de fondo del mensaje"
+
+#: dist/blocks.build.js:90141
+msgid "Validation Message Color"
+msgstr "Colores de los mensajes de validación"
+
+#: dist/blocks.build.js:90136 dist/blocks.build.js:92194
+msgid "validationMsgLineHeightTablet"
+msgstr "validationMsgLineHeightTablet"
+
+#: dist/blocks.build.js:90135 dist/blocks.build.js:92193
+msgid "validationMsgLineHeightMobile"
+msgstr "validationMsgLineHeightMobile"
+
+#: dist/blocks.build.js:90134 dist/blocks.build.js:92192
+msgid "validationMsgLineHeight"
+msgstr "validationMsgLineHeight"
+
+#: dist/blocks.build.js:90133 dist/blocks.build.js:92191
+msgid "validationMsgLineHeightType"
+msgstr "validationMsgLineHeightType"
+
+#: dist/blocks.build.js:90132 dist/blocks.build.js:92190
+msgid "validationMsgFontSizeTablet"
+msgstr "validationMsgFontSizeTablet"
+
+#: dist/blocks.build.js:90131 dist/blocks.build.js:92189
+msgid "validationMsgFontSizeMobile"
+msgstr "validationMsgFontSizeMobile"
+
+#: dist/blocks.build.js:90130 dist/blocks.build.js:92188
+msgid "validationMsgFontSize"
+msgstr "validationMsgFontSize"
+
+#: dist/blocks.build.js:90129 dist/blocks.build.js:92187
+msgid "validationMsgFontSizeType"
+msgstr "validationMsgFontSizeType"
+
+#: dist/blocks.build.js:90128 dist/blocks.build.js:92186
+msgid "validationMsgFontSubset"
+msgstr "validationMsgFontSubset"
+
+#: dist/blocks.build.js:90127 dist/blocks.build.js:92185
+msgid "validationMsgFontWeight"
+msgstr "validationMsgFontWeight"
+
+#: dist/blocks.build.js:90126 dist/blocks.build.js:92184
+msgid "validationMsgFontFamily"
+msgstr "validationMsgFontFamily"
+
+#: dist/blocks.build.js:90125 dist/blocks.build.js:92183
+msgid "validationMsgLoadGoogleFonts"
+msgstr "validationMsgLoadGoogleFonts"
+
+#: dist/blocks.build.js:90119
+msgid "Validation Font"
+msgstr "Fuente de validación"
+
+#: dist/blocks.build.js:90114
+msgid "Bottom Right Side of Field"
+msgstr "Lado derecho inferior del campo"
+
+#: dist/blocks.build.js:90109
+msgid "Validation Message Position"
+msgstr "Posición del mensaje de validación"
+
+#: dist/blocks.build.js:90106 dist/blocks.build.js:92160
+msgid "Field Validation"
+msgstr "Validación de campo"
+
+#: dist/blocks.build.js:90100
+msgid "Note: This styling can be only seen at frontend"
+msgstr "Nota: Estos estilos solo se pueden ver en la vista pública"
+
+#: dist/blocks.build.js:90096 dist/blocks.build.js:92150
+msgid "Success / Error Message"
+msgstr "Mensajes de éxito y error"
+
+#: dist/blocks.build.js:90033 dist/blocks.build.js:92087
+msgid "Radio & Checkbox Border"
+msgstr "Borde del botón radio y la casilla de verificación"
+
+#: dist/blocks.build.js:90012 dist/blocks.build.js:92066
+msgid "Selected Color"
+msgstr "Color seleccionado"
+
+#: dist/blocks.build.js:89978 dist/blocks.build.js:92032
+msgid "Label Color"
+msgstr "Color de la etiqueta"
+
+#: dist/blocks.build.js:89972 dist/blocks.build.js:92026
+msgid "radioCheckLineHeightTablet"
+msgstr "radioCheckLineHeightTablet"
+
+#: dist/blocks.build.js:89971 dist/blocks.build.js:92025
+msgid "radioCheckLineHeightMobile"
+msgstr "radioCheckLineHeightMobile"
+
+#: dist/blocks.build.js:89970 dist/blocks.build.js:92024
+msgid "radioCheckLineHeight"
+msgstr "radioCheckLineHeight"
+
+#: dist/blocks.build.js:89969 dist/blocks.build.js:92023
+msgid "radioCheckLineHeightType"
+msgstr "radioCheckLineHeightType"
+
+#: dist/blocks.build.js:89968 dist/blocks.build.js:92022
+msgid "radioCheckFontSizeTablet"
+msgstr "radioCheckFontSizeTablet"
+
+#: dist/blocks.build.js:89967 dist/blocks.build.js:92021
+msgid "radioCheckFontSizeMobile"
+msgstr "radioCheckFontSizeMobile"
+
+#: dist/blocks.build.js:89966 dist/blocks.build.js:92020
+msgid "radioCheckFontSize"
+msgstr "radioCheckFontSize"
+
+#: dist/blocks.build.js:89965 dist/blocks.build.js:92019
+msgid "radioCheckFontSizeType"
+msgstr "radioCheckFontSizeType"
+
+#: dist/blocks.build.js:89964 dist/blocks.build.js:92018
+msgid "radioCheckFontSubset"
+msgstr "radioCheckFontSubset"
+
+#: dist/blocks.build.js:89963 dist/blocks.build.js:92017
+msgid "radioCheckFontWeight"
+msgstr "radioCheckFontWeight"
+
+#: dist/blocks.build.js:89962 dist/blocks.build.js:92016
+msgid "radioCheckFontFamily"
+msgstr "radioCheckFontFamily"
+
+#: dist/blocks.build.js:89961 dist/blocks.build.js:92015
+msgid "radioCheckLoadGoogleFonts"
+msgstr "radioCheckLoadGoogleFonts"
+
+#: dist/blocks.build.js:89955 dist/blocks.build.js:92009
+msgid "Radio & Checkbox Label"
+msgstr "Etiqueta de botón radio y casilla de verificación"
+
+#: dist/blocks.build.js:89932 dist/blocks.build.js:91986
+msgid "Override Current Style"
+msgstr "Anular estilo actual"
+
+#: dist/blocks.build.js:89930 dist/blocks.build.js:91984
+msgid "Radio & Checkbox"
+msgstr "Botón radio y casilla de verificación"
+
+#: dist/blocks.build.js:89902 dist/blocks.build.js:91956
+msgid "Field Padding (px)"
+msgstr "Espaciado interior del campo (px)"
+
+#: dist/blocks.build.js:89889 dist/blocks.build.js:91943
+msgid "Fields Space"
+msgstr "Espacio del campo"
+
+#: dist/blocks.build.js:89879 dist/blocks.build.js:91933
+msgid "Label & Input Space"
+msgstr "Espacio de la etiqueta y la entrada"
+
+#: dist/blocks.build.js:89813 dist/blocks.build.js:91867
+msgid "buttonLineHeightTablet"
+msgstr "buttonLineHeightTablet"
+
+#: dist/blocks.build.js:89812 dist/blocks.build.js:91866
+msgid "buttonLineHeightMobile"
+msgstr "buttonLineHeightMobile"
+
+#: dist/blocks.build.js:89811 dist/blocks.build.js:91865
+msgid "buttonLineHeight"
+msgstr "buttonLineHeight"
+
+#: dist/blocks.build.js:89810 dist/blocks.build.js:91864
+msgid "buttonLineHeightType"
+msgstr "buttonLineHeightType"
+
+#: dist/blocks.build.js:89809 dist/blocks.build.js:91863
+msgid "buttonFontSizeTablet"
+msgstr "buttonFontSizeTablet"
+
+#: dist/blocks.build.js:89808 dist/blocks.build.js:91862
+msgid "buttonFontSizeMobile"
+msgstr "buttonFontSizeMobile"
+
+#: dist/blocks.build.js:89807 dist/blocks.build.js:91861
+msgid "buttonFontSize"
+msgstr "buttonFontSize"
+
+#: dist/blocks.build.js:89806 dist/blocks.build.js:91860
+msgid "buttonFontSizeType"
+msgstr "buttonFontSizeType"
+
+#: dist/blocks.build.js:89805 dist/blocks.build.js:91859
+msgid "buttonFontSubset"
+msgstr "buttonFontSubset"
+
+#: dist/blocks.build.js:89804 dist/blocks.build.js:91858
+msgid "buttonFontWeight"
+msgstr "buttonFontWeight"
+
+#: dist/blocks.build.js:89803 dist/blocks.build.js:91857
+msgid "buttonFontFamily"
+msgstr "buttonFontFamily"
+
+#: dist/blocks.build.js:89802 dist/blocks.build.js:91856
+msgid "buttonLoadGoogleFonts"
+msgstr "buttonLoadGoogleFonts"
+
+#: dist/blocks.build.js:89796 dist/blocks.build.js:91850
+msgid "Button Font"
+msgstr "Fuente del botón"
+
+#: dist/blocks.build.js:89791 dist/blocks.build.js:91845
+msgid "Justified"
+msgstr "Justificado"
+
+#: dist/blocks.build.js:89786 dist/blocks.build.js:91840
+msgid "Button Alignment"
+msgstr "Alineación del botón"
+
+#: dist/blocks.build.js:89784 dist/blocks.build.js:91838
+msgid "Submit Button"
+msgstr "Enviar botón"
+
+#: dist/blocks.build.js:89599
+msgid "Select a Contact Form 7"
+msgstr "Selecciona un formulario de Contact Form 7"
+
+#: dist/blocks.build.js:89564 dist/blocks.build.js:92209
+msgid "Field Background Color"
+msgstr "Color de fondo del campo"
+
+#: dist/blocks.build.js:89541 dist/blocks.build.js:91545
+msgid "inputLineHeightTablet"
+msgstr "inputLineHeightTablet"
+
+#: dist/blocks.build.js:89540 dist/blocks.build.js:91544
+msgid "inputLineHeightMobile"
+msgstr "inputLineHeightMobile"
+
+#: dist/blocks.build.js:89539 dist/blocks.build.js:91543
+msgid "inputLineHeight"
+msgstr "inputLineHeight"
+
+#: dist/blocks.build.js:89538 dist/blocks.build.js:91542
+msgid "inputLineHeightType"
+msgstr "inputLineHeightType"
+
+#: dist/blocks.build.js:89537 dist/blocks.build.js:91541
+msgid "inputFontSizeTablet"
+msgstr "inputFontSizeTablet"
+
+#: dist/blocks.build.js:89536 dist/blocks.build.js:91540
+msgid "inputFontSizeMobile"
+msgstr "inputFontSizeMobile"
+
+#: dist/blocks.build.js:89535 dist/blocks.build.js:91539
+msgid "inputFontSize"
+msgstr "inputFontSize"
+
+#: dist/blocks.build.js:89534 dist/blocks.build.js:91538
+msgid "inputFontSizeType"
+msgstr "inputFontSizeType"
+
+#: dist/blocks.build.js:89533 dist/blocks.build.js:91537
+msgid "inputFontSubset"
+msgstr "inputFontSubset"
+
+#: dist/blocks.build.js:89532 dist/blocks.build.js:91536
+msgid "inputFontWeight"
+msgstr "inputFontWeight"
+
+#: dist/blocks.build.js:89531 dist/blocks.build.js:91535
+msgid "inputFontFamily"
+msgstr "inputFontFamily"
+
+#: dist/blocks.build.js:89530 dist/blocks.build.js:91534
+msgid "inputLoadGoogleFonts"
+msgstr "inputLoadGoogleFonts"
+
+#: dist/blocks.build.js:89524 dist/blocks.build.js:91528
+msgid "Input"
+msgstr "Entrada"
+
+#: dist/blocks.build.js:89501 dist/blocks.build.js:91504
+msgid "labelLineHeightTablet"
+msgstr "labelLineHeightTablet"
+
+#: dist/blocks.build.js:89500 dist/blocks.build.js:91503
+msgid "labelLineHeightMobile"
+msgstr "labelLineHeightMobile"
+
+#: dist/blocks.build.js:89499 dist/blocks.build.js:91502
+msgid "labelLineHeight"
+msgstr "labelLineHeight"
+
+#: dist/blocks.build.js:89498 dist/blocks.build.js:91501
+msgid "labelLineHeightType"
+msgstr "labelLineHeightType"
+
+#: dist/blocks.build.js:89497 dist/blocks.build.js:91500
+msgid "labelFontSizeTablet"
+msgstr "labelFontSizeTablet"
+
+#: dist/blocks.build.js:89496 dist/blocks.build.js:91499
+msgid "labelFontSizeMobile"
+msgstr "labelFontSizeMobile"
+
+#: dist/blocks.build.js:89495 dist/blocks.build.js:91498
+msgid "labelFontSize"
+msgstr "labelFontSize"
+
+#: dist/blocks.build.js:89494 dist/blocks.build.js:91497
+msgid "labelFontSizeType"
+msgstr "labelFontSizeType"
+
+#: dist/blocks.build.js:89493 dist/blocks.build.js:91496
+msgid "labelFontSubset"
+msgstr "labelFontSubset"
+
+#: dist/blocks.build.js:89492 dist/blocks.build.js:91495
+msgid "labelFontWeight"
+msgstr "labelFontWeight"
+
+#: dist/blocks.build.js:89491 dist/blocks.build.js:91494
+msgid "labelFontFamily"
+msgstr "labelFontFamily"
+
+#: dist/blocks.build.js:89490 dist/blocks.build.js:91493
+msgid "labelLoadGoogleFonts"
+msgstr "labelLoadGoogleFonts"
+
+#: dist/blocks.build.js:89462 dist/blocks.build.js:91455
+msgid "Active Border Color"
+msgstr "Color de borde activo"
+
+#: dist/blocks.build.js:89401 dist/blocks.build.js:89623
+#: dist/blocks.build.js:90036 dist/blocks.build.js:91394
+#: dist/blocks.build.js:91677 dist/blocks.build.js:92090
+msgid "Border Width (px)"
+msgstr "Ancho del borde (px)"
+
+#: dist/blocks.build.js:89390 dist/blocks.build.js:91383
+msgid "Underline"
+msgstr "Subrayado"
+
+#: dist/blocks.build.js:89390 dist/blocks.build.js:91383
+msgid "Box"
+msgstr "Caja"
+
+#: dist/blocks.build.js:89385 dist/blocks.build.js:91378
+msgid "Field Style"
+msgstr "Estilo de campo"
+
+#: dist/blocks.build.js:89383 dist/blocks.build.js:91376
+msgid "Field Style & Border"
+msgstr "Estilo y borde del campo"
+
+#: dist/blocks.build.js:89038
+msgid "contact form styler"
+msgstr "estilizador del formulario de contacto"
+
+#: dist/blocks.build.js:89038
+msgid "CF7 styler"
+msgstr "Estilizador de CF7"
+
+#: dist/blocks.build.js:88454
+msgid "Shape Dividers"
+msgstr "Divisores de forma"
+
+#: dist/blocks.build.js:87746
+msgid "Reverse Columns (Mobile)"
+msgstr "Columnas invertidas (móviles)"
+
+#: dist/blocks.build.js:87739
+msgid "Reverse Columns (Tablet)"
+msgstr "Columnas invertidas (tabletas)"
+
+#: dist/blocks.build.js:87728
+msgid "Note: The individual Column Gap can be managed from Column Settings."
+msgstr "Nota: El espacio individual de la columna puede gestionarse desde los ajustes de la columna."
+
+#: dist/blocks.build.js:87727
+msgid "Wider (30px)"
+msgstr "Más ancho (30px)"
+
+#: dist/blocks.build.js:87727
+msgid "Wide (20px)"
+msgstr "Ancho (20px)"
+
+#: dist/blocks.build.js:87727
+msgid "Extended (15px)"
+msgstr "Extendido (15px)"
+
+#: dist/blocks.build.js:87727
+msgid "Narrow (5px)"
+msgstr "Estrecho (5px)"
+
+#: dist/blocks.build.js:87727
+msgid "No Gap (0px)"
+msgstr "Sin espacio (0px)"
+
+#: dist/blocks.build.js:87727
+msgid "Default (10px)"
+msgstr "Por defecto (10px)"
+
+#: dist/blocks.build.js:87688
+msgid "Custom"
+msgstr "Personalizado"
+
+#: dist/blocks.build.js:87688
+msgid "Theme Container Width"
+msgstr "Ancho del contenedor del tema"
+
+#: dist/blocks.build.js:87683
+msgid "Container Width"
+msgstr "Ancho del contenedor"
+
+#: dist/blocks.build.js:87680
+msgid "Note: Choose on what breakpoint the columns will stack."
+msgstr "Nota: Escoge en qué punto de ruptura se apilarán las columnas."
+
+#: dist/blocks.build.js:87644
+msgid "Vertically Bottom"
+msgstr "Abajo verticalmente"
+
+#: dist/blocks.build.js:87626
+msgid "Vertically Middle"
+msgstr "En medio verticalmente"
+
+#: dist/blocks.build.js:87608
+msgid "Vertically Top"
+msgstr "Arriba verticalmente"
+
+#: dist/blocks.build.js:87433 dist/blocks.build.js:87562
+msgid "Bring To Front"
+msgstr "Traer al frente"
+
+#: dist/blocks.build.js:87426 dist/blocks.build.js:87555
+msgid "Flip"
+msgstr "Giro"
+
+#: dist/blocks.build.js:87311
+msgid "Triangle"
+msgstr "Triángulo"
+
+#: dist/blocks.build.js:87311
+msgid "Waves"
+msgstr "Ondas"
+
+#: dist/blocks.build.js:87311
+msgid "Wave Brush"
+msgstr "Pincel de onda"
+
+#: dist/blocks.build.js:87311
+msgid "Mountains"
+msgstr "Montañas"
+
+#: dist/blocks.build.js:87311
+msgid "Tilt"
+msgstr "Inclinación"
+
+#: dist/blocks.build.js:86594
+msgid "rows"
+msgstr "filas"
+
+#: dist/blocks.build.js:86594
+msgid "columns"
+msgstr "columnas"
+
+#: dist/blocks.build.js:84497
+msgid "Verticle Alignment"
+msgstr "Alineación vertical"
+
+#: dist/blocks.build.js:84485 dist/blocks.build.js:85173
+#: dist/blocks.build.js:85185 dist/blocks.build.js:85197
+msgid "Content Width (%)"
+msgstr "Ancho del contenido (%)"
+
+#: dist/blocks.build.js:84476
+msgid "Note: Choose on what breakpoint the CTA button will stack."
+msgstr "Nota: Escoge en qué punto de ruptura se apilará el botón de llamada a la acción."
+
+#: dist/blocks.build.js:84470
+msgid "Stack"
+msgstr "Apilar"
+
+#: dist/blocks.build.js:84465
+msgid "Button Position"
+msgstr "Posición del botón"
+
+#: dist/blocks.build.js:84449
+msgid "Content Right Margin"
+msgstr "Margen derecho del contenido"
+
+#: dist/blocks.build.js:84438
+msgid "Content Left Margin"
+msgstr "Margen izquierdo del contenido"
+
+#: dist/blocks.build.js:84416
+msgid "Heading Bottom Margin"
+msgstr "Margen inferior del encabezado"
+
+#: dist/blocks.build.js:84328
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: dist/blocks.build.js:84302
+msgid "CTA Text Hover Color"
+msgstr "Color del texto al pasar el cursor sobre la llamada a la acción"
+
+#: dist/blocks.build.js:84280
+msgid "CTA Text Color"
+msgstr "Color del texto de la llamada a la acción"
+
+#: dist/blocks.build.js:83392
+msgid "call to action"
+msgstr "llamada a la acción"
+
+#: dist/blocks.build.js:83392 dist/blocks.build.js:95515
+msgid "cta"
+msgstr "cta"
+
+#: dist/blocks.build.js:82336
+msgid "Content Bottom Spacing"
+msgstr "Espaciado inferior del contenido"
+
+#: dist/blocks.build.js:82325 dist/blocks.build.js:94427
+msgid "Author Bottom Spacing"
+msgstr "Espaciado inferior del autor"
+
+#: dist/blocks.build.js:82270
+msgid "Block Padding"
+msgstr "Espaciado interior del bloque"
+
+#: dist/blocks.build.js:82186
+msgid "CTA"
+msgstr "Llamada a la acción"
+
+#: dist/blocks.build.js:82176 dist/blocks.build.js:94197
+msgid "authorLineHeightTablet"
+msgstr "authorLineHeightTablet"
+
+#: dist/blocks.build.js:82175 dist/blocks.build.js:94196
+msgid "authorLineHeightMobile"
+msgstr "authorLineHeightMobile"
+
+#: dist/blocks.build.js:82174 dist/blocks.build.js:94195
+msgid "authorLineHeight"
+msgstr "authorLineHeight"
+
+#: dist/blocks.build.js:82173 dist/blocks.build.js:94194
+msgid "authorLineHeightType"
+msgstr "authorLineHeightType"
+
+#: dist/blocks.build.js:82172 dist/blocks.build.js:94193
+msgid "authorFontSizeTablet"
+msgstr "authorFontSizeTablet"
+
+#: dist/blocks.build.js:82171 dist/blocks.build.js:94192
+msgid "authorFontSizeMobile"
+msgstr "authorFontSizeMobile"
+
+#: dist/blocks.build.js:82170 dist/blocks.build.js:94191
+msgid "authorFontSize"
+msgstr "authorFontSize"
+
+#: dist/blocks.build.js:82169 dist/blocks.build.js:94190
+msgid "authorFontSizeType"
+msgstr "authorFontSizeType"
+
+#: dist/blocks.build.js:82168 dist/blocks.build.js:94189
+msgid "authorFontSubset"
+msgstr "authorFontSubset"
+
+#: dist/blocks.build.js:82167 dist/blocks.build.js:94188
+msgid "authorFontWeight"
+msgstr "authorFontWeight"
+
+#: dist/blocks.build.js:82166 dist/blocks.build.js:94187
+msgid "authorFontFamily"
+msgstr "authorFontFamily"
+
+#: dist/blocks.build.js:82165 dist/blocks.build.js:94186
+msgid "authorLoadGoogleFonts"
+msgstr "authorLoadGoogleFonts"
+
+#: dist/blocks.build.js:82050
+msgid "CTA Text"
+msgstr "Texto de la llamada a la acción"
+
+#: dist/blocks.build.js:82040
+msgid "Display Continue Reading Link"
+msgstr "Mostrar el enlace de «Seguir leyendo»"
+
+#: dist/blocks.build.js:82023
+msgid "Display Post Excerpt"
+msgstr "Mostrar extracto de la entrada"
+
+#: dist/blocks.build.js:82009
+msgid "Display Post Author"
+msgstr "Mostrar autor de la entrada"
+
+#: dist/blocks.build.js:81997
+msgid "Featured Image Style"
+msgstr "Estilo de la imagen destacada"
+
+#: dist/blocks.build.js:81990
+msgid "Display Featured Image"
+msgstr "Mostrar imagen destacada"
+
+#: dist/blocks.build.js:81980
+msgid "Note: Choose on what breakpoint the Post Timeline will stack."
+msgstr "Nota: Elige en qué punto de ruptura se apilará la cronología de entradas."
+
+#: dist/blocks.build.js:81903
+msgid "Query"
+msgstr "Consulta"
+
+#: dist/blocks.build.js:81881
+msgid "CTA Background Color"
+msgstr "Color de fondo de la llamada a la acción"
+
+#: dist/blocks.build.js:81864
+msgid "CTA Color"
+msgstr "Color de la llamada a la acción"
+
+#: dist/blocks.build.js:81822 dist/blocks.build.js:94202
+msgid "Author Color"
+msgstr "Color del autor"
+
+#: dist/blocks.build.js:81285
+msgid "timeline"
+msgstr "línea de tiempo"
+
+#: dist/blocks.build.js:80983
+msgid "No content found."
+msgstr "No se ha encontrado contenido."
+
+#: dist/blocks.build.js:80981
+msgid "UAGB Content Timeline"
+msgstr "Cronología de contenidos de UAGB"
+
+#: dist/blocks.build.js:80827 dist/blocks.build.js:82254
+msgid "Connector Width"
+msgstr "Ancho del conector"
+
+#: dist/blocks.build.js:80807 dist/blocks.build.js:82234
+msgid "Icon Background Size"
+msgstr "Tamaño del fondo del icono"
+
+#: dist/blocks.build.js:80794 dist/blocks.build.js:82221
+msgid "Connector"
+msgstr "Conector"
+
+#: dist/blocks.build.js:80775
+msgid "Content Tag"
+msgstr "Etiqueta del contenido"
+
+#: dist/blocks.build.js:80714 dist/blocks.build.js:82067
+msgid "Timeline Item"
+msgstr "Elemento de la línea de tiempo"
+
+#: dist/blocks.build.js:80702 dist/blocks.build.js:82314
+msgid "Heading Bottom Spacing"
+msgstr "Espaciado inferior del encabezado"
+
+#: dist/blocks.build.js:80692 dist/blocks.build.js:82303
+msgid "Vertical Space"
+msgstr "Espacio vertical"
+
+#: dist/blocks.build.js:80682 dist/blocks.build.js:82292
+msgid "Horizontal Space"
+msgstr "Espacio horizontal"
+
+#: dist/blocks.build.js:80672
+msgid "Note: Choose on what breakpoint the Content Timeline will stack."
+msgstr "Nota: Escoge en qué punto de ruptura se apilará el contenido de la línea de tiempo."
+
+#: dist/blocks.build.js:80661 dist/blocks.build.js:81969
+msgid "Arrow Alignment"
+msgstr "Alineación de la flecha"
+
+#: dist/blocks.build.js:80658 dist/blocks.build.js:80666
+#: dist/blocks.build.js:81966 dist/blocks.build.js:81974
+#: dist/blocks.build.js:89791 dist/blocks.build.js:91641
+#: dist/blocks.build.js:91845 dist/blocks.build.js:96127
+msgid "Center"
+msgstr "Centrar"
+
+#: dist/blocks.build.js:80653 dist/blocks.build.js:81961
+msgid "Orientation"
+msgstr "Orientación"
+
+#: dist/blocks.build.js:80594 dist/blocks.build.js:82149
+msgid "dateLineHeightTablet"
+msgstr "dateLineHeightTablet"
+
+#: dist/blocks.build.js:80593 dist/blocks.build.js:82148
+msgid "dateLineHeightMobile"
+msgstr "dateLineHeightMobile"
+
+#: dist/blocks.build.js:80592 dist/blocks.build.js:82147
+msgid "dateLineHeight"
+msgstr "dateLineHeight"
+
+#: dist/blocks.build.js:80591 dist/blocks.build.js:82146
+msgid "dateLineHeightType"
+msgstr "dateLineHeightType"
+
+#: dist/blocks.build.js:80590 dist/blocks.build.js:82145
+msgid "dateFontsizeTablet"
+msgstr "dateFontsizeTablet"
+
+#: dist/blocks.build.js:80589 dist/blocks.build.js:82144
+msgid "dateFontsizeMobile"
+msgstr "dateFontsizeMobile"
+
+#: dist/blocks.build.js:80588 dist/blocks.build.js:82143
+msgid "dateFontsize"
+msgstr "dateFontsize"
+
+#: dist/blocks.build.js:80587 dist/blocks.build.js:82142
+msgid "dateFontsizeType"
+msgstr "dateFontsizeType"
+
+#: dist/blocks.build.js:80586 dist/blocks.build.js:82141
+msgid "dateFontSubset"
+msgstr "dateFontSubset"
+
+#: dist/blocks.build.js:80585 dist/blocks.build.js:82140
+msgid "dateFontWeight"
+msgstr "dateFontWeight"
+
+#: dist/blocks.build.js:80584 dist/blocks.build.js:82139
+msgid "dateFontFamily"
+msgstr "dateFontFamily"
+
+#: dist/blocks.build.js:80583 dist/blocks.build.js:82138
+msgid "dateLoadGoogleFonts"
+msgstr "dateLoadGoogleFonts"
+
+#: dist/blocks.build.js:80577
+msgid "Date Typography"
+msgstr "Tipografía de la fecha"
+
+#: dist/blocks.build.js:80559 dist/blocks.build.js:81780
+msgid "Date Color"
+msgstr "Color de la fecha"
+
+#: dist/blocks.build.js:80543 dist/blocks.build.js:82347
+msgid "Date Bottom Spacing"
+msgstr "Espaciado inferior de la fecha"
+
+#: dist/blocks.build.js:80535 dist/blocks.build.js:82016
+msgid "Display Post Date"
+msgstr "Mostrar fecha de la entrada"
+
+#: dist/blocks.build.js:80533
+msgid "Date Settings"
+msgstr "Ajustes de Fecha"
+
+#: dist/blocks.build.js:80459 dist/blocks.build.js:81745
+msgid "Focus"
+msgstr "Objetivo"
+
+#: dist/blocks.build.js:80448 dist/blocks.build.js:81734
+msgid "Connector Color Settings"
+msgstr "Ajustes de color del conector"
+
+#: dist/blocks.build.js:80396 dist/blocks.build.js:80424
+#: dist/blocks.build.js:81680 dist/blocks.build.js:81710
+msgid "Line Color"
+msgstr "Color de línea"
+
+#: dist/blocks.build.js:79863
+msgid "This is Timeline description, you can change me anytime click here "
+msgstr "Esta es la descripción de la línea de tiempo, puedes cambiarme cuando quieras haciendo clic aquí"
+
+#: dist/blocks.build.js:79862 dist/blocks.build.js:80632
+msgid "Timeline Heading "
+msgstr "Encabezado de la línea de tiempo "
+
+#: dist/blocks.build.js:79432
+msgid "Timeline"
+msgstr "Cronología"
+
+#: dist/blocks.build.js:79066
+msgid "$9"
+msgstr "9€"
+
+#: dist/blocks.build.js:78702
+msgid "Note: Choose on what breakpoint the Images will stack."
+msgstr "Nota: Escoge en qué punto de ruptura se apilarán las imágenes."
+
+#: dist/blocks.build.js:78590
+msgid "$19"
+msgstr "19€"
+
+#: dist/blocks.build.js:78588 dist/blocks.build.js:79064
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: dist/blocks.build.js:78577 dist/blocks.build.js:80606
+msgid "Number of Items"
+msgstr "Número de elementos"
+
+#: dist/blocks.build.js:78543
+msgid "Image Padding (px)"
+msgstr "Espacio interior de la imagen (px)"
+
+#: dist/blocks.build.js:78512
+msgid "Item Padding (px)"
+msgstr "Espacio interior del elemento (px)"
+
+#: dist/blocks.build.js:78382
+msgid "Separator Thickness"
+msgstr "Espesor del separador"
+
+#: dist/blocks.build.js:78372
+msgid "Separator Width (%)"
+msgstr "Ancho del separador (%)"
+
+#: dist/blocks.build.js:78361
+msgid "Separator Style"
+msgstr "Estilo del separador"
+
+#: dist/blocks.build.js:78353
+msgid "Price Color"
+msgstr "Color del precio"
+
+#: dist/blocks.build.js:78347 dist/blocks.build.js:80852
+#: dist/blocks.build.js:81843 dist/blocks.build.js:98292
+msgid "Content Color"
+msgstr "Color del contenido"
+
+#: dist/blocks.build.js:78330
+msgid "priceLineHeightTablet"
+msgstr "priceLineHeightTablet"
+
+#: dist/blocks.build.js:78329
+msgid "priceLineHeightMobile"
+msgstr "priceLineHeightMobile"
+
+#: dist/blocks.build.js:78328
+msgid "priceLineHeight"
+msgstr "priceLineHeight"
+
+#: dist/blocks.build.js:78327
+msgid "priceLineHeightType"
+msgstr "priceLineHeightType"
+
+#: dist/blocks.build.js:78326
+msgid "priceFontSizeTablet"
+msgstr "priceFontSizeTablet"
+
+#: dist/blocks.build.js:78325
+msgid "priceFontSizeMobile"
+msgstr "priceFontSizeMobile"
+
+#: dist/blocks.build.js:78324
+msgid "priceFontSize"
+msgstr "priceFontSize"
+
+#: dist/blocks.build.js:78323
+msgid "priceFontSizeType"
+msgstr "priceFontSizeType"
+
+#: dist/blocks.build.js:78322
+msgid "priceFontSubset"
+msgstr "priceFontSubset"
+
+#: dist/blocks.build.js:78321
+msgid "priceFontWeight"
+msgstr "priceFontWeight"
+
+#: dist/blocks.build.js:78320
+msgid "priceFontFamily"
+msgstr "priceFontFamily"
+
+#: dist/blocks.build.js:78319
+msgid "priceLoadGoogleFonts"
+msgstr "priceLoadGoogleFonts"
+
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079
+msgid "SPAN"
+msgstr "SPAN"
+
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079
+msgid "P"
+msgstr "P"
+
+#: dist/blocks.build.js:77837
+msgid "menu"
+msgstr "menú"
+
+#: dist/blocks.build.js:77837
+msgid "pricelist"
+msgstr "lista de precios"
+
+#: dist/blocks.build.js:77471
+msgid "Label Name"
+msgstr "Nombre de la etiqueta"
+
+#: dist/blocks.build.js:77406
+msgid "Gap between Icon and Label"
+msgstr "Espacio entre el icono y la etiqueta"
+
+#: dist/blocks.build.js:77397
+msgid "Gap between Items"
+msgstr "Espacio entre los elementos"
+
+#: dist/blocks.build.js:77391
+msgid "Note: Border Radius option is useful when one adds background color to the icons."
+msgstr "Nota: La opción de radio del borde es útil cuando se añade un color de fondo a los iconos."
+
+#: dist/blocks.build.js:77381
+msgid "Note: Border option is useful when one adds border color to the icons."
+msgstr "Nota: La opción del borde es útil cuando se añade un color de borde a los iconos."
+
+#: dist/blocks.build.js:77362 dist/blocks.build.js:98287
+msgid "lineHeightTablet"
+msgstr "lineHeightTablet"
+
+#: dist/blocks.build.js:77361 dist/blocks.build.js:98286
+msgid "lineHeightMobile"
+msgstr "lineHeightMobile"
+
+#: dist/blocks.build.js:77360 dist/blocks.build.js:98285
+msgid "lineHeight"
+msgstr "lineHeight"
+
+#: dist/blocks.build.js:77359 dist/blocks.build.js:98284
+msgid "lineHeightType"
+msgstr "lineHeightType"
+
+#: dist/blocks.build.js:77358 dist/blocks.build.js:98283
+msgid "fontSizeTablet"
+msgstr "fontSizeTablet"
+
+#: dist/blocks.build.js:77357 dist/blocks.build.js:98282
+msgid "fontSizeMobile"
+msgstr "fontSizeMobile"
+
+#: dist/blocks.build.js:77356 dist/blocks.build.js:98281
+msgid "fontSize"
+msgstr "fontSize"
+
+#: dist/blocks.build.js:77355 dist/blocks.build.js:98280
+msgid "fontSizeType"
+msgstr "fontSizeType"
+
+#: dist/blocks.build.js:77345 dist/blocks.build.js:89484
+#: dist/blocks.build.js:91487 dist/blocks.build.js:94495
+msgid "Label"
+msgstr "Nombre"
+
+#: dist/blocks.build.js:77247
+msgid "Hide Labels"
+msgstr "Ocultar etiquetas"
+
+#: dist/blocks.build.js:77181
+msgid "Number of Icons"
+msgstr "Número de iconos"
+
+#: dist/blocks.build.js:77179
+msgid "Icon Count"
+msgstr "Cantidad de iconos"
+
+#: dist/blocks.build.js:77072
+msgid "Icon #"
+msgstr "Icono #"
+
+#: dist/blocks.build.js:77061
+msgid "Open in New Tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: dist/blocks.build.js:77058 dist/blocks.build.js:96112
+msgid "Enter URL"
+msgstr "Introduce la URL"
+
+#: dist/blocks.build.js:77039
+msgid "Disable Link"
+msgstr "Desactivar enlace"
+
+#: dist/blocks.build.js:77036
+msgid "List Item Link"
+msgstr "Enlace de la lista de elementos"
+
+#: dist/blocks.build.js:76951
+msgid "Icon Border Hover Color"
+msgstr "Color de borde del icono al pasar el cursor"
+
+#: dist/blocks.build.js:76879
+msgid "Icon Border Color"
+msgstr "Color de borde del icono"
+
+#: dist/blocks.build.js:76805
+msgid "Image Border Hover Color"
+msgstr "Color de borde de la imagen al pasar el cursor"
+
+#: dist/blocks.build.js:76788
+msgid "Image Background Hover Color"
+msgstr "Color de fondo de la imagen al pasar el cursor"
+
+#: dist/blocks.build.js:76750
+msgid "Image Border Color"
+msgstr "Color de borde de la imagen"
+
+#: dist/blocks.build.js:76733
+msgid "Image Background Color"
+msgstr "Color de fondo de la imagen"
+
+#: dist/blocks.build.js:76139
+msgid "image list"
+msgstr "lista de imágenes"
+
+#: dist/blocks.build.js:76139
+msgid "icon list"
+msgstr "lista de iconos"
+
+#: dist/blocks.build.js:76045
+msgid "map"
+msgstr "mapa"
+
+#: dist/blocks.build.js:76045
+msgid "google map"
+msgstr "mapa de Google"
+
+#: dist/blocks.build.js:76015 dist/blocks.build.js:87385
+#: dist/blocks.build.js:87396 dist/blocks.build.js:87407
+#: dist/blocks.build.js:87514 dist/blocks.build.js:87525
+#: dist/blocks.build.js:87536
+msgid "Height"
+msgstr "Altura"
+
+#: dist/blocks.build.js:76004
+msgid "Zoom"
+msgstr "Zoom"
+
+#: dist/blocks.build.js:76001
+msgid "Type the address"
+msgstr "Escribe la dirección"
+
+#: dist/blocks.build.js:75994
+msgid "Address"
+msgstr "Dirección"
+
+#: dist/blocks.build.js:75989
+msgid "This block uses Ultimate Addon for Gutenberg's API key to display the map. You don't need to create your own API key or worry about renewing it."
+msgstr "Este bloque utiliza la API de Ultimate Addon for Gutenberg para mostrar el mapa. No necesitas crear tu propia clave API ni preocuparte por renovarla."
+
+#: dist/blocks.build.js:75540
+msgid "Gap between Icon / Image"
+msgstr "Espacio entre el icono y la imagen"
+
+#: dist/blocks.build.js:75535
+msgid "Note: Circular Size option is useful when one adds background color to the icons."
+msgstr "Nota: La opción de tamaño circular es útil cuando se añade un color de fondo a los iconos."
+
+#: dist/blocks.build.js:75530
+msgid "Circular Size"
+msgstr "Tamaño circular"
+
+#: dist/blocks.build.js:75480 dist/blocks.build.js:75498
+#: dist/blocks.build.js:75516 dist/blocks.build.js:77371
+msgid "Note: Background Size option is useful when one adds background color to the icons."
+msgstr "Nota: La opción de tamaño del fondo es útil cuando se añade un color de fondo a los iconos."
+
+#: dist/blocks.build.js:75472 dist/blocks.build.js:75490
+#: dist/blocks.build.js:75508 dist/blocks.build.js:77366
+#: dist/blocks.build.js:93799 dist/blocks.build.js:93817
+#: dist/blocks.build.js:93835
+msgid "Background Size"
+msgstr "Tamaño de fondo"
+
+#: dist/blocks.build.js:75365 dist/blocks.build.js:77243
+msgid "Note: Choose on what breakpoint the Icons will stack."
+msgstr "Nota: Elige en qué punto de ruptura se apilarán los iconos."
+
+#: dist/blocks.build.js:75353 dist/blocks.build.js:77228
+msgid "Vertical"
+msgstr "Vertical"
+
+#: dist/blocks.build.js:75353 dist/blocks.build.js:77228
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: dist/blocks.build.js:75310
+msgid "Number of Social Icons"
+msgstr "Número de iconos sociales"
+
+#: dist/blocks.build.js:75308
+msgid "Social Icon Count"
+msgstr "Cantidad de iconos sociales"
+
+#: dist/blocks.build.js:75209 dist/blocks.build.js:76934
+msgid "Icon Background Hover Color"
+msgstr "Color de fondo al pasar el cursor sobre el icono"
+
+#: dist/blocks.build.js:75170 dist/blocks.build.js:76862
+#: dist/blocks.build.js:94050
+msgid "Icon Background Color"
+msgstr "Color de fondo del icono"
+
+#: dist/blocks.build.js:75060 dist/blocks.build.js:76975
+msgid "Image / Icon"
+msgstr "Imagen / icono"
+
+#: dist/blocks.build.js:75054
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: dist/blocks.build.js:75054
+msgid "Myspace"
+msgstr "MySpace"
+
+#: dist/blocks.build.js:75054
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/blocks.build.js:75054
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: dist/blocks.build.js:75054
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/blocks.build.js:75054
+msgid "Blogger"
+msgstr "Blogger"
+
+#: dist/blocks.build.js:75054
+msgid "Digg"
+msgstr "Digg"
+
+#: dist/blocks.build.js:75054
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: dist/blocks.build.js:74647
+msgid "icon"
+msgstr "icono"
+
+#: dist/blocks.build.js:74647
+msgid "social share"
+msgstr "compartir en redes sociales"
+
+#: dist/blocks.build.js:73969
+msgid "Image Margin (px)"
+msgstr "Margen de la imagen (px)"
+
+#: dist/blocks.build.js:73953
+msgid "Inter Social Icon Spacing"
+msgstr "Espaciado entre los iconos sociales"
+
+#: dist/blocks.build.js:73943
+msgid "Description Bottom Spacing"
+msgstr "Espaciado inferior de la descripción"
+
+#: dist/blocks.build.js:73932
+msgid "Designation Bottom Spacing"
+msgstr "Espaciado inferior de la designación"
+
+#: dist/blocks.build.js:73912
+msgid "Social Icon Hover Color"
+msgstr "Color de icono social al pasar el cursor"
+
+#: dist/blocks.build.js:73906
+msgid "Social Icon Color"
+msgstr "Color de icono social"
+
+#: dist/blocks.build.js:73894
+msgid "Designation Color"
+msgstr "Color de designación"
+
+#: dist/blocks.build.js:73875
+msgid "socialFontSizeTablet"
+msgstr "socialFontSizeTablet"
+
+#: dist/blocks.build.js:73874
+msgid "socialFontSizeMobile"
+msgstr "socialFontSizeMobile"
+
+#: dist/blocks.build.js:73873
+msgid "socialFontSize"
+msgstr "socialFontSize"
+
+#: dist/blocks.build.js:73872
+msgid "socialFontSizeType"
+msgstr "socialFontSizeType"
+
+#: dist/blocks.build.js:73866
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: dist/blocks.build.js:73843 dist/blocks.build.js:77477
+#: dist/blocks.build.js:84373 dist/blocks.build.js:96222
+msgid "Description"
+msgstr "Descripción"
+
+#: dist/blocks.build.js:73820
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: dist/blocks.build.js:73775
+msgid "Enter Pinterest URL"
+msgstr "Introduce la URL de Pinterest"
+
+#: dist/blocks.build.js:73748 dist/blocks.build.js:75054
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: dist/blocks.build.js:73743
+msgid "Enter LinkedIn URL"
+msgstr "Introduce la URL de LinkedIn"
+
+#: dist/blocks.build.js:73716 dist/blocks.build.js:75054
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/blocks.build.js:73711
+msgid "Enter Facebook URL"
+msgstr "Introduce la URL de Facebook"
+
+#: dist/blocks.build.js:73684 dist/blocks.build.js:75054
+msgid "Facebook"
+msgstr "Facebook"
+
+#: dist/blocks.build.js:73679
+msgid "Enter Twitter URL"
+msgstr "Introduce la URL de Twitter"
+
+#: dist/blocks.build.js:73672 dist/blocks.build.js:73704
+#: dist/blocks.build.js:73736 dist/blocks.build.js:73768
+#: dist/blocks.build.js:77051 dist/blocks.build.js:94531
+msgid "URL"
+msgstr "URL"
+
+#: dist/blocks.build.js:73652 dist/blocks.build.js:75054
+msgid "Twitter"
+msgstr "Twitter"
+
+#: dist/blocks.build.js:73644
+msgid "Open Links in New Window"
+msgstr "Abrir enlaces en una nueva ventana"
+
+#: dist/blocks.build.js:73634
+msgid "Enable Social Links"
+msgstr "Activar enlaces sociales"
+
+#: dist/blocks.build.js:73631
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: dist/blocks.build.js:73599 dist/blocks.build.js:78691
+msgid "Vertical Alignment"
+msgstr "Alineación vertical"
+
+#: dist/blocks.build.js:73585
+msgid "Note: Choose on what breakpoint the Team will stack."
+msgstr "Nota: Elige en qué punto de ruptura se apilará el equipo."
+
+#: dist/blocks.build.js:73579
+msgid "Above"
+msgstr "Encima"
+
+#: dist/blocks.build.js:73552
+msgid "Team Member Image"
+msgstr "Imagen del miembro del equipo"
+
+#: dist/blocks.build.js:73421
+msgid "Write a Designation"
+msgstr "Escribe un nombramiento"
+
+#: dist/blocks.build.js:73415
+msgid "Enter Prefix"
+msgstr "Introduce un prefijo"
+
+#: dist/blocks.build.js:72815
+msgid "members"
+msgstr "miembros"
+
+#: dist/blocks.build.js:72815
+msgid "team"
+msgstr "equipo"
+
+#: dist/blocks.build.js:71991 dist/blocks.build.js:73596
+msgid "Square"
+msgstr "Cuadrado"
+
+#: dist/blocks.build.js:71991 dist/blocks.build.js:73596
+msgid "Circle"
+msgstr "Círculo"
+
+#: dist/blocks.build.js:71986 dist/blocks.build.js:73591
+msgid "Image Style"
+msgstr "Estilo de la imagen"
+
+#: dist/blocks.build.js:71962 dist/blocks.build.js:73579
+#: dist/blocks.build.js:78685 dist/blocks.build.js:80658
+#: dist/blocks.build.js:81966 dist/blocks.build.js:89791
+#: dist/blocks.build.js:91641 dist/blocks.build.js:91845
+#: dist/blocks.build.js:93968 dist/blocks.build.js:96127
+msgid "Right"
+msgstr "Derecha"
+
+#: dist/blocks.build.js:71962 dist/blocks.build.js:73579
+#: dist/blocks.build.js:78685 dist/blocks.build.js:80658
+#: dist/blocks.build.js:81966 dist/blocks.build.js:89791
+#: dist/blocks.build.js:91641 dist/blocks.build.js:91845
+#: dist/blocks.build.js:93968 dist/blocks.build.js:96127
+msgid "Left"
+msgstr "Izquierda"
+
+#: dist/blocks.build.js:71962 dist/blocks.build.js:80666
+#: dist/blocks.build.js:81974 dist/blocks.build.js:88465
+msgid "Bottom"
+msgstr "Inferior"
+
+#: dist/blocks.build.js:71850
+msgid "Number of Testimonials"
+msgstr "Número de recomendaciones"
+
+#: dist/blocks.build.js:71461
+msgid "Image Vertical Padding"
+msgstr "Espaciado interior vertical de la imagen"
+
+#: dist/blocks.build.js:71451
+msgid "Image Horizontal Padding"
+msgstr "Espaciado interior horizontal de la imagen"
+
+#: dist/blocks.build.js:71441
+msgid "Name Bottom Margin"
+msgstr "Margen inferior del nombre"
+
+#: dist/blocks.build.js:71431
+msgid "Testimonial Bottom Margin"
+msgstr "Margen inferior del testimonio"
+
+#: dist/blocks.build.js:71401
+msgid "Gap Between Content & Dots"
+msgstr "Espacio entre el contenido y los puntos"
+
+#: dist/blocks.build.js:71391
+msgid "Arrow & Dots Color"
+msgstr "Color de la flecha y los puntos"
+
+#: dist/blocks.build.js:71385
+msgid "Company Color"
+msgstr "Color de la empresa"
+
+#: dist/blocks.build.js:71379
+msgid "Name Color"
+msgstr "Color del nombre"
+
+#: dist/blocks.build.js:71373
+msgid "Testimonial Color"
+msgstr "Color del testimonio"
+
+#: dist/blocks.build.js:71366 dist/blocks.build.js:73881
+#: dist/blocks.build.js:75117 dist/blocks.build.js:78334
+#: dist/blocks.build.js:80390 dist/blocks.build.js:80418
+#: dist/blocks.build.js:80839 dist/blocks.build.js:81673
+#: dist/blocks.build.js:81703 dist/blocks.build.js:81766
+#: dist/blocks.build.js:85838 dist/blocks.build.js:85898
+#: dist/blocks.build.js:96597
+msgid "Color Settings"
+msgstr "Ajustes de color"
+
+#: dist/blocks.build.js:71362
+msgid "companyLineHeightTablet"
+msgstr "companyLineHeightTablet"
+
+#: dist/blocks.build.js:71361
+msgid "companyLineHeightMobile"
+msgstr "companyLineHeightMobile"
+
+#: dist/blocks.build.js:71360
+msgid "companyLineHeight"
+msgstr "companyLineHeight"
+
+#: dist/blocks.build.js:71359
+msgid "companyLineHeightType"
+msgstr "companyLineHeightType"
+
+#: dist/blocks.build.js:71358
+msgid "companyFontSizeTablet"
+msgstr "companyFontSizeTablet"
+
+#: dist/blocks.build.js:71357
+msgid "companyFontSizeMobile"
+msgstr "companyFontSizeMobile"
+
+#: dist/blocks.build.js:71356
+msgid "companyFontSize"
+msgstr "companyFontSize"
+
+#: dist/blocks.build.js:71355
+msgid "companyFontSizeType"
+msgstr "companyFontSizeType"
+
+#: dist/blocks.build.js:71354
+msgid "companyFontSubset"
+msgstr "companyFontSubset"
+
+#: dist/blocks.build.js:71353
+msgid "companyFontWeight"
+msgstr "companyFontWeight"
+
+#: dist/blocks.build.js:71352
+msgid "companyFontFamily"
+msgstr "companyFontFamily"
+
+#: dist/blocks.build.js:71351
+msgid "companyLoadGoogleFonts"
+msgstr "companyLoadGoogleFonts"
+
+#: dist/blocks.build.js:71345
+msgid "Company"
+msgstr "Empresa"
+
+#: dist/blocks.build.js:71339
+msgid "nameLineHeightTablet"
+msgstr "nameLineHeightTablet"
+
+#: dist/blocks.build.js:71338
+msgid "nameLineHeightMobile"
+msgstr "nameLineHeightMobile"
+
+#: dist/blocks.build.js:71337
+msgid "nameLineHeight"
+msgstr "nameLineHeight"
+
+#: dist/blocks.build.js:71336
+msgid "nameLineHeightType"
+msgstr "nameLineHeightType"
+
+#: dist/blocks.build.js:71335
+msgid "nameFontSizeTablet"
+msgstr "nameFontSizeTablet"
+
+#: dist/blocks.build.js:71334
+msgid "nameFontSizeMobile"
+msgstr "nameFontSizeMobile"
+
+#: dist/blocks.build.js:71333
+msgid "nameFontSize"
+msgstr "nameFontSize"
+
+#: dist/blocks.build.js:71332
+msgid "nameFontSizeType"
+msgstr "nameFontSizeType"
+
+#: dist/blocks.build.js:71331
+msgid "nameFontSubset"
+msgstr "nameFontSubset"
+
+#: dist/blocks.build.js:71330
+msgid "nameFontWeight"
+msgstr "nameFontWeight"
+
+#: dist/blocks.build.js:71329
+msgid "nameFontFamily"
+msgstr "nameFontFamily"
+
+#: dist/blocks.build.js:71328
+msgid "nameLoadGoogleFonts"
+msgstr "nameLoadGoogleFonts"
+
+#: dist/blocks.build.js:71322
+msgid "Name"
+msgstr "Nombre"
+
+#: dist/blocks.build.js:71316 dist/blocks.build.js:73860
+#: dist/blocks.build.js:78307 dist/blocks.build.js:84390
+#: dist/blocks.build.js:94157
+msgid "descLineHeightTablet"
+msgstr "descLineHeightTablet"
+
+#: dist/blocks.build.js:71315 dist/blocks.build.js:73859
+#: dist/blocks.build.js:78306 dist/blocks.build.js:84389
+#: dist/blocks.build.js:94156
+msgid "descLineHeightMobile"
+msgstr "descLineHeightMobile"
+
+#: dist/blocks.build.js:71314 dist/blocks.build.js:73858
+#: dist/blocks.build.js:78305 dist/blocks.build.js:84388
+#: dist/blocks.build.js:94155
+msgid "descLineHeight"
+msgstr "descLineHeight"
+
+#: dist/blocks.build.js:71313 dist/blocks.build.js:73857
+#: dist/blocks.build.js:78304 dist/blocks.build.js:84387
+#: dist/blocks.build.js:94154
+msgid "descLineHeightType"
+msgstr "descLineHeightType"
+
+#: dist/blocks.build.js:71312 dist/blocks.build.js:73856
+#: dist/blocks.build.js:78303 dist/blocks.build.js:84386
+#: dist/blocks.build.js:94153
+msgid "descFontSizeTablet"
+msgstr "descFontSizeTablet"
+
+#: dist/blocks.build.js:71311 dist/blocks.build.js:73855
+#: dist/blocks.build.js:78302 dist/blocks.build.js:84385
+#: dist/blocks.build.js:94152
+msgid "descFontSizeMobile"
+msgstr "descFontSizeMobile"
+
+#: dist/blocks.build.js:71310 dist/blocks.build.js:73854
+#: dist/blocks.build.js:78301 dist/blocks.build.js:84384
+#: dist/blocks.build.js:94151
+msgid "descFontSize"
+msgstr "descFontSize"
+
+#: dist/blocks.build.js:71309 dist/blocks.build.js:73853
+#: dist/blocks.build.js:78300 dist/blocks.build.js:84383
+#: dist/blocks.build.js:94150
+msgid "descFontSizeType"
+msgstr "descFontSizeType"
+
+#: dist/blocks.build.js:71308 dist/blocks.build.js:73852
+#: dist/blocks.build.js:78299 dist/blocks.build.js:84382
+#: dist/blocks.build.js:94149
+msgid "descFontSubset"
+msgstr "descFontSubset"
+
+#: dist/blocks.build.js:71307 dist/blocks.build.js:73851
+#: dist/blocks.build.js:78298 dist/blocks.build.js:84381
+#: dist/blocks.build.js:94148
+msgid "descFontWeight"
+msgstr "descFontWeight"
+
+#: dist/blocks.build.js:71306 dist/blocks.build.js:73850
+#: dist/blocks.build.js:78297 dist/blocks.build.js:84380
+#: dist/blocks.build.js:94147
+msgid "descFontFamily"
+msgstr "descFontFamily"
+
+#: dist/blocks.build.js:71305 dist/blocks.build.js:73849
+#: dist/blocks.build.js:78296 dist/blocks.build.js:84379
+#: dist/blocks.build.js:94146
+msgid "descLoadGoogleFonts"
+msgstr "descLoadGoogleFonts"
+
+#: dist/blocks.build.js:70705
+msgid "testimonial"
+msgstr "testimonial"
+
+#: dist/blocks.build.js:70051 dist/blocks.build.js:71973
+#: dist/blocks.build.js:73604 dist/blocks.build.js:77257
+#: dist/blocks.build.js:78696 dist/blocks.build.js:84502
+msgid "Middle"
+msgstr "Segundo nombre"
+
+#: dist/blocks.build.js:70046 dist/blocks.build.js:71968
+msgid "Vertical ALignment"
+msgstr "Alineación vertical"
+
+#: dist/blocks.build.js:70043 dist/blocks.build.js:73656
+#: dist/blocks.build.js:73688 dist/blocks.build.js:73720
+#: dist/blocks.build.js:73752 dist/blocks.build.js:75062
+#: dist/blocks.build.js:75073 dist/blocks.build.js:76971
+#: dist/blocks.build.js:76977 dist/blocks.build.js:76988
+#: dist/blocks.build.js:94479
+msgid "Icon"
+msgstr "Icono"
+
+#: dist/blocks.build.js:70038
+msgid "Select Source"
+msgstr "Selecciona el origen"
+
+#: dist/blocks.build.js:70031 dist/blocks.build.js:71979
+msgid "Note: Choose on what breakpoint the Info Box will stack."
+msgstr "Nota: Elige en qué punto de ruptura se apilará la caja de información."
+
+#: dist/blocks.build.js:70025
+msgid "Right of Text and Title"
+msgstr "A la derecha del texto y el título"
+
+#: dist/blocks.build.js:70025
+msgid "Left of Text and Title"
+msgstr "A la izquierda del texto y el título"
+
+#: dist/blocks.build.js:70025
+msgid "Right of Title"
+msgstr "A la derecha del titulo"
+
+#: dist/blocks.build.js:70025
+msgid "Left of Title"
+msgstr "A la izquierda del titulo"
+
+#: dist/blocks.build.js:70025
+msgid "Below Title"
+msgstr "Debajo del titulo"
+
+#: dist/blocks.build.js:70025
+msgid "Above Title"
+msgstr "Encima del titulo"
+
+#: dist/blocks.build.js:70020
+msgid "Select Position"
+msgstr "Seleccionar posición"
+
+#: dist/blocks.build.js:70018
+msgid "Image/Icon"
+msgstr "Imagen / icono"
+
+#: dist/blocks.build.js:69999
+msgid "Rounded Corners (px)"
+msgstr "Esquinas redondeadas (px)"
+
+#: dist/blocks.build.js:69988
+msgid "Width (px)"
+msgstr "Ancho (px)"
+
+#: dist/blocks.build.js:69985
+msgid "Turn this off to inherit the natural width of Image."
+msgstr "Desactiva esto para heredar el ancho natural de la imagen."
+
+#: dist/blocks.build.js:69980 dist/blocks.build.js:98351
+msgid "Custom Width"
+msgstr "Ancho personalizado"
+
+#: dist/blocks.build.js:69972 dist/blocks.build.js:71994
+#: dist/blocks.build.js:78709
+msgid "Image Size"
+msgstr "Tamaño de Imagen"
+
+#: dist/blocks.build.js:69937 dist/blocks.build.js:71071
+#: dist/blocks.build.js:78075 dist/blocks.build.js:93649
+msgid "Replace Image"
+msgstr "Sustituir la imagen"
+
+#: dist/blocks.build.js:69932 dist/blocks.build.js:69935
+#: dist/blocks.build.js:69949 dist/blocks.build.js:71066
+#: dist/blocks.build.js:71069 dist/blocks.build.js:73554
+#: dist/blocks.build.js:73563 dist/blocks.build.js:75091
+#: dist/blocks.build.js:75102 dist/blocks.build.js:77006
+#: dist/blocks.build.js:77017 dist/blocks.build.js:78070
+#: dist/blocks.build.js:78073 dist/blocks.build.js:93644
+#: dist/blocks.build.js:93647 dist/blocks.build.js:93940
+msgid "Select Image"
+msgstr "Selecciona una imagen"
+
+#: dist/blocks.build.js:69884
+msgid "Image/Icon Margin (px)"
+msgstr "Margen de la imagen / icono (px)"
+
+#: dist/blocks.build.js:69870 dist/blocks.build.js:84427
+msgid "Description Bottom Margin"
+msgstr "Margen inferior de la descripción"
+
+#: dist/blocks.build.js:69859
+msgid "Separator Bottom Margin"
+msgstr "Margen inferior del separador"
+
+#: dist/blocks.build.js:69848 dist/blocks.build.js:78499
+msgid "Title Bottom Margin"
+msgstr "Margen inferior del titulo"
+
+#: dist/blocks.build.js:69837
+msgid "Prefix Bottom Margin"
+msgstr "Margen inferior del prefijo"
+
+#: dist/blocks.build.js:69815 dist/blocks.build.js:73900
+#: dist/blocks.build.js:96303
+msgid "Description Color"
+msgstr "Color de la descripción"
+
+#: dist/blocks.build.js:69786
+msgid "Enable Description"
+msgstr "Activar descripción"
+
+#: dist/blocks.build.js:69732
+msgid "Enable Title"
+msgstr "Activar título"
+
+#: dist/blocks.build.js:69715
+msgid "Prefix Color"
+msgstr "Color del prefjo"
+
+#: dist/blocks.build.js:69710 dist/blocks.build.js:73837
+#: dist/blocks.build.js:96239
+msgid "prefixLineHeightTablet"
+msgstr "prefixLineHeightTablet"
+
+#: dist/blocks.build.js:69709 dist/blocks.build.js:73836
+#: dist/blocks.build.js:96238
+msgid "prefixLineHeightMobile"
+msgstr "prefixLineHeightMobile"
+
+#: dist/blocks.build.js:69708 dist/blocks.build.js:73835
+#: dist/blocks.build.js:96237
+msgid "prefixLineHeight"
+msgstr "prefixLineHeight"
+
+#: dist/blocks.build.js:69707 dist/blocks.build.js:73834
+#: dist/blocks.build.js:96236
+msgid "prefixLineHeightType"
+msgstr "prefixLineHeightType"
+
+#: dist/blocks.build.js:69706 dist/blocks.build.js:73833
+#: dist/blocks.build.js:96235
+msgid "prefixFontSizeTablet"
+msgstr "prefixFontSizeTablet"
+
+#: dist/blocks.build.js:69705 dist/blocks.build.js:73832
+#: dist/blocks.build.js:96234
+msgid "prefixFontSizeMobile"
+msgstr "prefixFontSizeMobile"
+
+#: dist/blocks.build.js:69704 dist/blocks.build.js:73831
+#: dist/blocks.build.js:96233
+msgid "prefixFontSize"
+msgstr "prefixFontSize"
+
+#: dist/blocks.build.js:69703 dist/blocks.build.js:73830
+#: dist/blocks.build.js:96232
+msgid "prefixFontSizeType"
+msgstr "prefixFontSizeType"
+
+#: dist/blocks.build.js:69702 dist/blocks.build.js:73829
+#: dist/blocks.build.js:96231
+msgid "prefixFontSubset"
+msgstr "prefixFontSubset"
+
+#: dist/blocks.build.js:69701 dist/blocks.build.js:73828
+#: dist/blocks.build.js:96230
+msgid "prefixFontWeight"
+msgstr "prefixFontWeight"
+
+#: dist/blocks.build.js:69700 dist/blocks.build.js:73827
+#: dist/blocks.build.js:96229
+msgid "prefixFontFamily"
+msgstr "prefixFontFamily"
+
+#: dist/blocks.build.js:69699 dist/blocks.build.js:73826
+msgid "prefixLoadGoogleFonts"
+msgstr "prefixLoadGoogleFonts"
+
+#: dist/blocks.build.js:69686
+msgid "Enable Prefix"
+msgstr "Activar prefijo"
+
+#: dist/blocks.build.js:69399 dist/blocks.build.js:96430
+#: dist/blocks.build.js:96478 dist/blocks.build.js:96526
+msgid "Button Padding"
+msgstr "Espaciado interior del botón"
+
+#: dist/blocks.build.js:69380 dist/blocks.build.js:84012
+#: dist/blocks.build.js:96157
+msgid "Icon Spacing"
+msgstr "Espaciado de iconos"
+
+#: dist/blocks.build.js:69377 dist/blocks.build.js:84009
+#: dist/blocks.build.js:96154
+msgid "After Text"
+msgstr "Después del texto"
+
+#: dist/blocks.build.js:69377 dist/blocks.build.js:84009
+#: dist/blocks.build.js:96154
+msgid "Before Text"
+msgstr "Antes del texto"
+
+#: dist/blocks.build.js:69372 dist/blocks.build.js:77255
+#: dist/blocks.build.js:84004 dist/blocks.build.js:96149
+msgid "Icon Position"
+msgstr "Posición del icono"
+
+#: dist/blocks.build.js:69365 dist/blocks.build.js:83994
+#: dist/blocks.build.js:96133
+msgid "Button Icon"
+msgstr "Icono del botón"
+
+#: dist/blocks.build.js:69353 dist/blocks.build.js:83985
+msgid "Open in new Window"
+msgstr "Abrir en una nueva ventana"
+
+#: dist/blocks.build.js:69315 dist/blocks.build.js:83947
+msgid "Complete Box"
+msgstr "Caja completa"
+
+#: dist/blocks.build.js:69232
+msgid "After Description"
+msgstr "Después de la descripción"
+
+#: dist/blocks.build.js:69232
+msgid "After Title"
+msgstr "Después del titulo"
+
+#: dist/blocks.build.js:69232
+msgid "After Prefix"
+msgstr "Después del prefijo"
+
+#: dist/blocks.build.js:69232
+msgid "After Icon/Image"
+msgstr "Después del icono / imagen"
+
+#: dist/blocks.build.js:69227 dist/blocks.build.js:73574
+msgid "Position"
+msgstr "Posición"
+
+#: dist/blocks.build.js:69195 dist/blocks.build.js:75192
+#: dist/blocks.build.js:76917 dist/blocks.build.js:96342
+msgid "Icon Hover Color"
+msgstr "Color al pasar el cursor sobre el icono"
+
+#: dist/blocks.build.js:69173 dist/blocks.build.js:75153
+#: dist/blocks.build.js:76845 dist/blocks.build.js:80402
+#: dist/blocks.build.js:80430 dist/blocks.build.js:81686
+#: dist/blocks.build.js:81716 dist/blocks.build.js:94033
+#: dist/blocks.build.js:96286 dist/blocks.build.js:97989
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: dist/blocks.build.js:69141 dist/blocks.build.js:77321
+#: dist/blocks.build.js:80797 dist/blocks.build.js:82224
+#: dist/blocks.build.js:96168 dist/blocks.build.js:96175
+#: dist/blocks.build.js:98099
+msgid "Icon Size"
+msgstr "Tamaño del icono"
+
+#: dist/blocks.build.js:69068 dist/blocks.build.js:69077
+#: dist/blocks.build.js:73667 dist/blocks.build.js:73699
+#: dist/blocks.build.js:73725 dist/blocks.build.js:73757
+#: dist/blocks.build.js:75084 dist/blocks.build.js:76999
+#: dist/blocks.build.js:80387 dist/blocks.build.js:81606
+#: dist/blocks.build.js:83935 dist/blocks.build.js:96143
+#: dist/blocks.build.js:97882
+msgid "Select Icon"
+msgstr "Seleccionar icono"
+
+#: dist/blocks.build.js:68827 dist/blocks.build.js:71657
+#: dist/blocks.build.js:73111 dist/blocks.build.js:78416
+#: dist/blocks.build.js:93654
+msgid "Large"
+msgstr "Grande"
+
+#: dist/blocks.build.js:68827 dist/blocks.build.js:71657
+#: dist/blocks.build.js:73111 dist/blocks.build.js:78416
+#: dist/blocks.build.js:93654
+msgid "Medium"
+msgstr "Medio"
+
+#: dist/blocks.build.js:68827 dist/blocks.build.js:71657
+#: dist/blocks.build.js:73111 dist/blocks.build.js:78416
+#: dist/blocks.build.js:93654
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: dist/blocks.build.js:67992
+msgid "info box"
+msgstr "caja de información"
+
+#: dist/blocks.build.js:67722
+msgid "Add text…"
+msgstr "Añade texto…"
+
+#: dist/blocks.build.js:67698
+msgid "Note: Choose on what breakpoint the buttons will stack."
+msgstr "Nota: Elige en qué punto de ruptura se apilarán los botones."
+
+#: dist/blocks.build.js:67694 dist/blocks.build.js:70030
+#: dist/blocks.build.js:71978 dist/blocks.build.js:73584
+#: dist/blocks.build.js:75361 dist/blocks.build.js:77239
+#: dist/blocks.build.js:78701 dist/blocks.build.js:80671
+#: dist/blocks.build.js:81979 dist/blocks.build.js:84475
+#: dist/blocks.build.js:87676 dist/blocks.build.js:93923
+msgid "Mobile"
+msgstr "Móvil"
+
+#: dist/blocks.build.js:67694 dist/blocks.build.js:70030
+#: dist/blocks.build.js:71978 dist/blocks.build.js:73584
+#: dist/blocks.build.js:75361 dist/blocks.build.js:77239
+#: dist/blocks.build.js:78701 dist/blocks.build.js:80671
+#: dist/blocks.build.js:81979 dist/blocks.build.js:84475
+#: dist/blocks.build.js:87676 dist/blocks.build.js:93923
+msgid "Tablet"
+msgstr "Tableta"
+
+#: dist/blocks.build.js:67694 dist/blocks.build.js:75361
+msgid "Desktop"
+msgstr "Escritorio"
+
+#: dist/blocks.build.js:67692 dist/blocks.build.js:70028
+#: dist/blocks.build.js:71976 dist/blocks.build.js:73582
+#: dist/blocks.build.js:75359 dist/blocks.build.js:77237
+#: dist/blocks.build.js:78699 dist/blocks.build.js:80669
+#: dist/blocks.build.js:81977 dist/blocks.build.js:84473
+#: dist/blocks.build.js:87674 dist/blocks.build.js:93921
+msgid "Stack on"
+msgstr "Apilar en"
+
+#: dist/blocks.build.js:67682
+msgid "Gap Between Buttons"
+msgstr "Espacio entre los botones"
+
+#: dist/blocks.build.js:67679
+msgid "Button Spacing"
+msgstr "Espaciado del botón"
+
+#: dist/blocks.build.js:67671 dist/blocks.build.js:77354
+#: dist/blocks.build.js:98279
+msgid "fontSubset"
+msgstr "fontSubset"
+
+#: dist/blocks.build.js:67670 dist/blocks.build.js:77353
+#: dist/blocks.build.js:98278
+msgid "fontWeight"
+msgstr "fontWeight"
+
+#: dist/blocks.build.js:67669 dist/blocks.build.js:77352
+#: dist/blocks.build.js:98277
+msgid "fontFamily"
+msgstr "fontFamily"
+
+#: dist/blocks.build.js:67668 dist/blocks.build.js:77351
+#: dist/blocks.build.js:98276
+msgid "loadGoogleFonts"
+msgstr "loadGoogleFonts"
+
+#: dist/blocks.build.js:67662
+msgid "Button Typography"
+msgstr "Tipografía del botón"
+
+#: dist/blocks.build.js:67613
+msgid "Number of Buttons"
+msgstr "Número de botones"
+
+#: dist/blocks.build.js:67611
+msgid "Button Count"
+msgstr "Cantidad de botones"
+
+#: dist/blocks.build.js:67514 dist/blocks.build.js:69509
+#: dist/blocks.build.js:69627 dist/blocks.build.js:76771
+#: dist/blocks.build.js:76900 dist/blocks.build.js:84220
+#: dist/blocks.build.js:89728 dist/blocks.build.js:91782
+msgid "Text Hover Color"
+msgstr "Color de texto al pasar el cursor"
+
+#: dist/blocks.build.js:67458 dist/blocks.build.js:69487
+#: dist/blocks.build.js:69567 dist/blocks.build.js:76716
+#: dist/blocks.build.js:76828 dist/blocks.build.js:84160
+#: dist/blocks.build.js:89668 dist/blocks.build.js:91722
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: dist/blocks.build.js:67434 dist/blocks.build.js:77072
+msgid " Color Settings"
+msgstr " Ajustes de color"
+
+#: dist/blocks.build.js:67434
+msgid "Button #"
+msgstr "Botón #"
+
+#: dist/blocks.build.js:67422 dist/blocks.build.js:80724
+#: dist/blocks.build.js:82208
+msgid "Rounded Corners"
+msgstr "Esquinas Redondeadas"
+
+#: dist/blocks.build.js:67413 dist/blocks.build.js:69246
+msgid "Thickness"
+msgstr "Grosor"
+
+#: dist/blocks.build.js:67015
+msgid "New Window"
+msgstr "Nueva ventana"
+
+#: dist/blocks.build.js:67015
+msgid "Same Window"
+msgstr "La misma ventana"
+
+#: dist/blocks.build.js:67013
+msgid "Link Target"
+msgstr "Destino del enlace"
+
+#: dist/blocks.build.js:67004 dist/blocks.build.js:69346
+#: dist/blocks.build.js:83978 dist/blocks.build.js:94487
+#: dist/blocks.build.js:96105
+msgid "Link"
+msgstr "Link"
+
+#: dist/blocks.build.js:66998 dist/blocks.build.js:71717
+#: dist/blocks.build.js:75048 dist/blocks.build.js:76971
+#: dist/blocks.build.js:78426 dist/blocks.build.js:80483
+msgid "Settings"
+msgstr "Ajustes"
+
+#: dist/blocks.build.js:66998 dist/blocks.build.js:69315
+#: dist/blocks.build.js:83940 dist/blocks.build.js:83947
+msgid "Button"
+msgstr "Botón"
+
+#: dist/blocks.build.js:66668
+msgid "Click Here"
+msgstr "Haz clic aquí"
+
+#: dist/blocks.build.js:66594
+msgid "multi buttons"
+msgstr "múltiples botones"
+
+#: dist/blocks.build.js:66594
+msgid "buttons"
+msgstr "botones"
+
+#: dist/blocks.build.js:66291 dist/blocks.build.js:71644
+#: dist/blocks.build.js:77386 dist/blocks.build.js:85113
+#: dist/blocks.build.js:88505 dist/blocks.build.js:89429
+#: dist/blocks.build.js:89651 dist/blocks.build.js:90064
+#: dist/blocks.build.js:91422 dist/blocks.build.js:91705
+#: dist/blocks.build.js:92118 dist/blocks.build.js:96717
+#: dist/blocks.build.js:98928
+msgid "Border Radius"
+msgstr "Redondez de los bordes"
+
+#: dist/blocks.build.js:66281 dist/blocks.build.js:71612
+#: dist/blocks.build.js:80817 dist/blocks.build.js:82244
+#: dist/blocks.build.js:85103 dist/blocks.build.js:88495
+#: dist/blocks.build.js:96707 dist/blocks.build.js:98918
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+#: dist/blocks.build.js:66278 dist/blocks.build.js:71606
+#: dist/blocks.build.js:78366 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Ridge"
+msgstr "Rugoso"
+
+#: dist/blocks.build.js:66278 dist/blocks.build.js:71606
+#: dist/blocks.build.js:78366 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Outset"
+msgstr "Exterior"
+
+#: dist/blocks.build.js:66278 dist/blocks.build.js:71606
+#: dist/blocks.build.js:78366 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Inset"
+msgstr "Relieve"
+
+#: dist/blocks.build.js:66278 dist/blocks.build.js:71606
+#: dist/blocks.build.js:78366 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Groove"
+msgstr "Surco"
+
+#: dist/blocks.build.js:66273 dist/blocks.build.js:71601
+#: dist/blocks.build.js:85095 dist/blocks.build.js:88487
+#: dist/blocks.build.js:89393 dist/blocks.build.js:89615
+#: dist/blocks.build.js:91386 dist/blocks.build.js:91669
+#: dist/blocks.build.js:96699 dist/blocks.build.js:98910
+msgid "Border Style"
+msgstr "Estilo del borde"
+
+#: dist/blocks.build.js:66271 dist/blocks.build.js:71599
+#: dist/blocks.build.js:77376 dist/blocks.build.js:85093
+#: dist/blocks.build.js:88485 dist/blocks.build.js:96697
+#: dist/blocks.build.js:98907
+msgid "Border"
+msgstr "Borde"
+
+#: dist/blocks.build.js:66242 dist/blocks.build.js:88425
+msgid "Video Overlay Color"
+msgstr "Color de la superposición del video"
+
+#: dist/blocks.build.js:66226 dist/blocks.build.js:66258
+#: dist/blocks.build.js:71586 dist/blocks.build.js:85953
+#: dist/blocks.build.js:87345 dist/blocks.build.js:87474
+#: dist/blocks.build.js:88409 dist/blocks.build.js:88441
+#: dist/blocks.build.js:96652 dist/blocks.build.js:96683
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: dist/blocks.build.js:66222 dist/blocks.build.js:88405
+msgid "Remove Video"
+msgstr "Eliminar vídeo"
+
+#: dist/blocks.build.js:66215 dist/blocks.build.js:88398
+msgid "Replace Video"
+msgstr "Reemplazar vídeo"
+
+#: dist/blocks.build.js:66206 dist/blocks.build.js:66215
+#: dist/blocks.build.js:88389 dist/blocks.build.js:88398
+msgid "Select Background Video"
+msgstr "Seleccionar fondo del vídeo"
+
+#: dist/blocks.build.js:66203 dist/blocks.build.js:88386
+msgid "Background Video"
+msgstr "Fondo del vídeo"
+
+#: dist/blocks.build.js:66095 dist/blocks.build.js:66181
+#: dist/blocks.build.js:85882 dist/blocks.build.js:85942
+#: dist/blocks.build.js:88364 dist/blocks.build.js:96641
+msgid "Angle"
+msgstr "Ángulo"
+
+#: dist/blocks.build.js:66092 dist/blocks.build.js:66178
+#: dist/blocks.build.js:85859 dist/blocks.build.js:85919
+#: dist/blocks.build.js:88361 dist/blocks.build.js:96618
+msgid "Radial"
+msgstr "Radial"
+
+#: dist/blocks.build.js:66092 dist/blocks.build.js:66178
+#: dist/blocks.build.js:85859 dist/blocks.build.js:85919
+#: dist/blocks.build.js:88361 dist/blocks.build.js:96618
+msgid "Linear"
+msgstr "Lineal"
+
+#: dist/blocks.build.js:66087 dist/blocks.build.js:66105
+#: dist/blocks.build.js:66173 dist/blocks.build.js:66191
+#: dist/blocks.build.js:69310 dist/blocks.build.js:75052
+#: dist/blocks.build.js:83942 dist/blocks.build.js:85854
+#: dist/blocks.build.js:85914 dist/blocks.build.js:87317
+#: dist/blocks.build.js:87446 dist/blocks.build.js:88356
+#: dist/blocks.build.js:88374 dist/blocks.build.js:96613
+msgid "Type"
+msgstr "Tipo"
+
+#: dist/blocks.build.js:66077 dist/blocks.build.js:66163
+#: dist/blocks.build.js:85872 dist/blocks.build.js:85932
+#: dist/blocks.build.js:88346 dist/blocks.build.js:96631
+msgid "Location 2"
+msgstr "Ubicación 2"
+
+#: dist/blocks.build.js:66062 dist/blocks.build.js:66148
+#: dist/blocks.build.js:85850 dist/blocks.build.js:85910
+#: dist/blocks.build.js:88331 dist/blocks.build.js:96609
+msgid "Color 2"
+msgstr "Color 2"
+
+#: dist/blocks.build.js:66050 dist/blocks.build.js:66136
+#: dist/blocks.build.js:85862 dist/blocks.build.js:85922
+#: dist/blocks.build.js:88319 dist/blocks.build.js:96621
+msgid "Location 1"
+msgstr "Ubicación 1"
+
+#: dist/blocks.build.js:66035 dist/blocks.build.js:66121
+#: dist/blocks.build.js:85844 dist/blocks.build.js:85904
+#: dist/blocks.build.js:88304 dist/blocks.build.js:96603
+msgid "Color 1"
+msgstr "Color 1"
+
+#: dist/blocks.build.js:66014 dist/blocks.build.js:71568
+#: dist/blocks.build.js:85819 dist/blocks.build.js:88281
+msgid "Image Overlay Color"
+msgstr "Color de superposición de la imagen"
+
+#: dist/blocks.build.js:66001 dist/blocks.build.js:85806
+msgid "Image Overlay Type"
+msgstr "Tipo de superposición de la imagen"
+
+#: dist/blocks.build.js:65998 dist/blocks.build.js:71560
+#: dist/blocks.build.js:85803 dist/blocks.build.js:88273
+msgid "Contain"
+msgstr "Contener"
+
+#: dist/blocks.build.js:65998 dist/blocks.build.js:71560
+#: dist/blocks.build.js:85803 dist/blocks.build.js:88273
+msgid "Cover"
+msgstr "Cubrir"
+
+#: dist/blocks.build.js:65998 dist/blocks.build.js:71560
+#: dist/blocks.build.js:85803 dist/blocks.build.js:88273
+msgid "Auto"
+msgstr "Automático"
+
+#: dist/blocks.build.js:65993 dist/blocks.build.js:71555
+#: dist/blocks.build.js:73610 dist/blocks.build.js:75393
+#: dist/blocks.build.js:75410 dist/blocks.build.js:75427
+#: dist/blocks.build.js:77287 dist/blocks.build.js:77304
+#: dist/blocks.build.js:85798 dist/blocks.build.js:88268
+#: dist/blocks.build.js:89942 dist/blocks.build.js:91996
+msgid "Size"
+msgstr "Tamaño"
+
+#: dist/blocks.build.js:65990 dist/blocks.build.js:71552
+#: dist/blocks.build.js:85795 dist/blocks.build.js:88265
+msgid "Repeat-y"
+msgstr "Repetir en el eje «y»"
+
+#: dist/blocks.build.js:65990 dist/blocks.build.js:71552
+#: dist/blocks.build.js:85795 dist/blocks.build.js:88265
+msgid "Repeat-x"
+msgstr "Repetir en el eje «x»"
+
+#: dist/blocks.build.js:65990 dist/blocks.build.js:71552
+#: dist/blocks.build.js:85795 dist/blocks.build.js:88265
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: dist/blocks.build.js:65985 dist/blocks.build.js:65990
+#: dist/blocks.build.js:71547 dist/blocks.build.js:71552
+#: dist/blocks.build.js:85790 dist/blocks.build.js:85795
+#: dist/blocks.build.js:88260 dist/blocks.build.js:88265
+msgid "Repeat"
+msgstr "Repetir"
+
+#: dist/blocks.build.js:65982 dist/blocks.build.js:85787
+#: dist/blocks.build.js:88257 dist/blocks.build.js:97943
+msgid "Scroll"
+msgstr "Scroll"
+
+#: dist/blocks.build.js:65982 dist/blocks.build.js:85787
+#: dist/blocks.build.js:88257
+msgid "Fixed"
+msgstr "Fija"
+
+#: dist/blocks.build.js:65977 dist/blocks.build.js:85782
+#: dist/blocks.build.js:88252
+msgid "Attachment"
+msgstr "Adjunto"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Bottom Center"
+msgstr "Abajo al centro"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Center Right"
+msgstr "Centrada a la derecha"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Center Center"
+msgstr "Centrada"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Center Left"
+msgstr "Centrada a la izquierda"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Top Center"
+msgstr "Arriba al centro"
+
+#: dist/blocks.build.js:65974 dist/blocks.build.js:66110
+#: dist/blocks.build.js:66196 dist/blocks.build.js:71544
+#: dist/blocks.build.js:85779 dist/blocks.build.js:88249
+#: dist/blocks.build.js:88379
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: dist/blocks.build.js:65962 dist/blocks.build.js:69965
+#: dist/blocks.build.js:71532 dist/blocks.build.js:71748
+#: dist/blocks.build.js:73570 dist/blocks.build.js:75114
+#: dist/blocks.build.js:77029 dist/blocks.build.js:78457
+#: dist/blocks.build.js:85767 dist/blocks.build.js:88237
+#: dist/blocks.build.js:93956
+msgid "Remove Image"
+msgstr "Quitar imagen"
+
+#: dist/blocks.build.js:65955 dist/blocks.build.js:71525
+#: dist/blocks.build.js:73563 dist/blocks.build.js:75102
+#: dist/blocks.build.js:77017 dist/blocks.build.js:85760
+#: dist/blocks.build.js:88230
+msgid "Replace image"
+msgstr "Reemplazar imagen"
+
+#: dist/blocks.build.js:65946 dist/blocks.build.js:65955
+#: dist/blocks.build.js:71516 dist/blocks.build.js:71525
+#: dist/blocks.build.js:85751 dist/blocks.build.js:85760
+#: dist/blocks.build.js:88221 dist/blocks.build.js:88230
+msgid "Select Background Image"
+msgstr "Selecciona la imagen de fondo"
+
+#: dist/blocks.build.js:65944 dist/blocks.build.js:71514
+#: dist/blocks.build.js:85749 dist/blocks.build.js:88219
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: dist/blocks.build.js:65914 dist/blocks.build.js:88189
+msgid "Video"
+msgstr "Vídeo"
+
+#: dist/blocks.build.js:65914 dist/blocks.build.js:66006
+#: dist/blocks.build.js:85719 dist/blocks.build.js:85811
+#: dist/blocks.build.js:88189 dist/blocks.build.js:96570
+msgid "Gradient"
+msgstr "Degradado"
+
+#: dist/blocks.build.js:65909 dist/blocks.build.js:71479
+#: dist/blocks.build.js:85714 dist/blocks.build.js:88184
+#: dist/blocks.build.js:96565
+msgid "Background Type"
+msgstr "Tipo de fondo"
+
+#: dist/blocks.build.js:65848 dist/blocks.build.js:85653
+#: dist/blocks.build.js:88145
+msgid "Margin"
+msgstr "Margin"
+
+#: dist/blocks.build.js:65776 dist/blocks.build.js:85581
+#: dist/blocks.build.js:88095
+msgid "Margin Tablet"
+msgstr "Margen en tabletas"
+
+#: dist/blocks.build.js:65704 dist/blocks.build.js:85509
+#: dist/blocks.build.js:88045
+msgid "Margin Mobile"
+msgstr "Margen en móviles"
+
+#: dist/blocks.build.js:65603 dist/blocks.build.js:80735
+#: dist/blocks.build.js:85408 dist/blocks.build.js:87944
+#: dist/blocks.build.js:98591 dist/blocks.build.js:98641
+#: dist/blocks.build.js:98691
+msgid "Padding"
+msgstr "Espaciado interior"
+
+#: dist/blocks.build.js:65531 dist/blocks.build.js:85336
+#: dist/blocks.build.js:87872
+msgid "Padding Tablet"
+msgstr "Espaciado interior en tabletas"
+
+#: dist/blocks.build.js:65459 dist/blocks.build.js:85264
+#: dist/blocks.build.js:87800
+msgid "Padding Mobile"
+msgstr "Espaciado interior en móviles"
+
+#: dist/blocks.build.js:65409 dist/blocks.build.js:87736
+msgid "nav"
+msgstr "nav"
+
+#: dist/blocks.build.js:65409 dist/blocks.build.js:87736
+msgid "aside"
+msgstr "minientrada"
+
+#: dist/blocks.build.js:65409 dist/blocks.build.js:87736
+msgid "article"
+msgstr "artículo"
+
+#: dist/blocks.build.js:65409 dist/blocks.build.js:87736
+msgid "main"
+msgstr "principal"
+
+#: dist/blocks.build.js:65409 dist/blocks.build.js:87736
+msgid "footer"
+msgstr "pie de página"
+
+#: dist/blocks.build.js:65409 dist/blocks.build.js:87736
+msgid "header"
+msgstr "cabecera"
+
+#: dist/blocks.build.js:65409 dist/blocks.build.js:87736
+msgid "div"
+msgstr "div"
+
+#: dist/blocks.build.js:65404 dist/blocks.build.js:87731
+msgid "HTML Tag"
+msgstr "Etiqueta HTML"
+
+#: dist/blocks.build.js:65394 dist/blocks.build.js:87712
+msgid "Inner Width"
+msgstr "Ancho interior"
+
+#: dist/blocks.build.js:65366
+msgid "Inherit Inner Width from Theme"
+msgstr "Heredar ancho interior desde el tema"
+
+#: dist/blocks.build.js:65354
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: dist/blocks.build.js:65354
+msgid "Boxed"
+msgstr "Caja"
+
+#: dist/blocks.build.js:65349
+msgid "Content Width"
+msgstr "Ancho del contenido"
+
+#: dist/blocks.build.js:65347 dist/blocks.build.js:75351
+#: dist/blocks.build.js:77226 dist/blocks.build.js:80651
+#: dist/blocks.build.js:81959 dist/blocks.build.js:84463
+#: dist/blocks.build.js:85151 dist/blocks.build.js:87663
+#: dist/blocks.build.js:93870 dist/blocks.build.js:93872
+msgid "Layout"
+msgstr "Estructura"
+
+#: dist/blocks.build.js:64661
+msgid "wrapper"
+msgstr "contenedor"
+
+#: dist/blocks.build.js:64661 dist/blocks.build.js:65409
+#: dist/blocks.build.js:87736
+msgid "section"
+msgstr "sección"
+
+#: dist/blocks.build.js:60917
+msgid "Gap Between Posts & Dots"
+msgstr "Espacio entre las entradas y los puntos"
+
+#: dist/blocks.build.js:60888
+msgid "Arrows & Dots Color"
+msgstr "Color de flechas y puntos"
+
+#: dist/blocks.build.js:60615
+msgid "CTA Tag"
+msgstr "Etiqueta de llamada a la acción"
+
+#: dist/blocks.build.js:60450 dist/blocks.build.js:71820
+msgid "Arrow Border Radius"
+msgstr "Radio del borde de la flecha"
+
+#: dist/blocks.build.js:60441 dist/blocks.build.js:71811
+msgid "Arrow Border Size"
+msgstr "Tamaño de borde de la flecha"
+
+#: dist/blocks.build.js:60432 dist/blocks.build.js:71802
+msgid "Arrow Size"
+msgstr "Tamaño de la flecha"
+
+#: dist/blocks.build.js:60426 dist/blocks.build.js:71796
+msgid "Both Arrows & Dots"
+msgstr "Ambos, flechas y puntos"
+
+#: dist/blocks.build.js:60426 dist/blocks.build.js:71796
+msgid "Only Dots"
+msgstr "Solo puntos"
+
+#: dist/blocks.build.js:60426 dist/blocks.build.js:71796
+msgid "Only Arrows"
+msgstr "Solo flechas"
+
+#: dist/blocks.build.js:60421 dist/blocks.build.js:71791
+msgid "Show Arrows & Dots"
+msgstr "Mostrar flechas y puntos"
+
+#: dist/blocks.build.js:60418
+msgid "Arrows & Dots"
+msgstr "Flechas y puntos"
+
+#: dist/blocks.build.js:60406 dist/blocks.build.js:71782
+msgid "Transition Speed (ms)"
+msgstr "Velocidad de la transición (ms)"
+
+#: dist/blocks.build.js:60399 dist/blocks.build.js:71777
+msgid "Infinite Loop"
+msgstr "Bucle infinito"
+
+#: dist/blocks.build.js:60390 dist/blocks.build.js:71768
+msgid "Autoplay Speed (ms)"
+msgstr "Velocidad de la reproducción automática (ms)"
+
+#: dist/blocks.build.js:60383 dist/blocks.build.js:71763
+msgid "Autoplay"
+msgstr "Reproducir automáticamente"
+
+#: dist/blocks.build.js:60376 dist/blocks.build.js:71758
+msgid "Pause On Hover"
+msgstr "Pausar al pasar el cursor"
+
+#: dist/blocks.build.js:60374 dist/blocks.build.js:71756
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: dist/blocks.build.js:59812
+msgid "carousel"
+msgstr "carrusel"
+
+#: dist/blocks.build.js:50958
+msgid "masonry"
+msgstr "muro"
+
+#: dist/blocks.build.js:50253 dist/blocks.build.js:52003
+#: dist/blocks.build.js:61004 dist/blocks.build.js:82604
+msgid "No posts found."
+msgstr "No se encontraron entradas."
+
+#: dist/blocks.build.js:50225 dist/blocks.build.js:51972
+#: dist/blocks.build.js:60969
+msgid "Excerpt Bottom Spacing"
+msgstr "Espaciado inferior del extracto"
+
+#: dist/blocks.build.js:50215 dist/blocks.build.js:51962
+#: dist/blocks.build.js:60959
+msgid "Meta Bottom Spacing"
+msgstr "Espaciado inferior del metadato"
+
+#: dist/blocks.build.js:50205 dist/blocks.build.js:51952
+#: dist/blocks.build.js:60949 dist/blocks.build.js:73921
+#: dist/blocks.build.js:96182
+msgid "Title Bottom Spacing"
+msgstr "Espaciado inferior del título"
+
+#: dist/blocks.build.js:50194 dist/blocks.build.js:51941
+#: dist/blocks.build.js:60938
+msgid "Content Padding (Mobile)"
+msgstr "Espaciado interior del contenido (móviles)"
+
+#: dist/blocks.build.js:50184 dist/blocks.build.js:51931
+#: dist/blocks.build.js:60928 dist/blocks.build.js:71421
+#: dist/blocks.build.js:82281
+msgid "Content Padding"
+msgstr "Relleno del contenido"
+
+#: dist/blocks.build.js:50173 dist/blocks.build.js:51920
+#: dist/blocks.build.js:78489 dist/blocks.build.js:87722
+msgid "Column Gap"
+msgstr "Espacio de la columna"
+
+#: dist/blocks.build.js:50163 dist/blocks.build.js:51910
+#: dist/blocks.build.js:60907 dist/blocks.build.js:71411
+#: dist/blocks.build.js:78479
+msgid "Row Gap"
+msgstr "Espacio de la fila"
+
+#: dist/blocks.build.js:50143 dist/blocks.build.js:51890
+#: dist/blocks.build.js:60870
+msgid "Excerpt Color"
+msgstr "Color del extracto"
+
+#: dist/blocks.build.js:50124 dist/blocks.build.js:51871
+#: dist/blocks.build.js:60851
+msgid "Meta Color"
+msgstr "Color del metadato"
+
+#: dist/blocks.build.js:50107 dist/blocks.build.js:51854
+#: dist/blocks.build.js:60834 dist/blocks.build.js:69769
+#: dist/blocks.build.js:73888 dist/blocks.build.js:78341
+#: dist/blocks.build.js:96269
+msgid "Title Color"
+msgstr "Color del título"
+
+#: dist/blocks.build.js:50090 dist/blocks.build.js:51837
+#: dist/blocks.build.js:60817
+msgid "Blog Background Color"
+msgstr "Color de fondo del blog"
+
+#: dist/blocks.build.js:50086 dist/blocks.build.js:51833
+#: dist/blocks.build.js:60813 dist/blocks.build.js:96245
+msgid "Colors"
+msgstr "Colores"
+
+#: dist/blocks.build.js:50080 dist/blocks.build.js:51827
+#: dist/blocks.build.js:60807
+msgid "excerptLineHeightTablet"
+msgstr "excerptLineHeightTablet"
+
+#: dist/blocks.build.js:50079 dist/blocks.build.js:51826
+#: dist/blocks.build.js:60806
+msgid "excerptLineHeightMobile"
+msgstr "excerptLineHeightMobile"
+
+#: dist/blocks.build.js:50078 dist/blocks.build.js:51825
+#: dist/blocks.build.js:60805
+msgid "excerptLineHeight"
+msgstr "excerptLineHeight"
+
+#: dist/blocks.build.js:50077 dist/blocks.build.js:51824
+#: dist/blocks.build.js:60804
+msgid "excerptLineHeightType"
+msgstr "excerptLineHeightType"
+
+#: dist/blocks.build.js:50076 dist/blocks.build.js:51823
+#: dist/blocks.build.js:60803
+msgid "excerptFontSizeTablet"
+msgstr "excerptFontSizeTablet"
+
+#: dist/blocks.build.js:50075 dist/blocks.build.js:51822
+#: dist/blocks.build.js:60802
+msgid "excerptFontSizeMobile"
+msgstr "excerptFontSizeMobile"
+
+#: dist/blocks.build.js:50074 dist/blocks.build.js:51821
+#: dist/blocks.build.js:60801
+msgid "excerptFontSize"
+msgstr "excerptFontSize"
+
+#: dist/blocks.build.js:50073 dist/blocks.build.js:51820
+#: dist/blocks.build.js:60800
+msgid "excerptFontSizeType"
+msgstr "excerptFontSizeType"
+
+#: dist/blocks.build.js:50072 dist/blocks.build.js:51819
+#: dist/blocks.build.js:60799
+msgid "excerptFontSubset"
+msgstr "excerptFontSubset"
+
+#: dist/blocks.build.js:50071 dist/blocks.build.js:51818
+#: dist/blocks.build.js:60798
+msgid "excerptFontWeight"
+msgstr "excerptFontWeight"
+
+#: dist/blocks.build.js:50070 dist/blocks.build.js:51817
+#: dist/blocks.build.js:60797
+msgid "excerptFontFamily"
+msgstr "excerptFontFamily"
+
+#: dist/blocks.build.js:50069 dist/blocks.build.js:51816
+#: dist/blocks.build.js:60796
+msgid "excerptLoadGoogleFonts"
+msgstr "excerptLoadGoogleFonts"
+
+#: dist/blocks.build.js:50063 dist/blocks.build.js:51810
+#: dist/blocks.build.js:60790
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: dist/blocks.build.js:50053 dist/blocks.build.js:51800
+#: dist/blocks.build.js:60780
+msgid "metaLineHeightTablet"
+msgstr "metaLineHeightTablet"
+
+#: dist/blocks.build.js:50052 dist/blocks.build.js:51799
+#: dist/blocks.build.js:60779
+msgid "metaLineHeightMobile"
+msgstr "metaLineHeightMobile"
+
+#: dist/blocks.build.js:50051 dist/blocks.build.js:51798
+#: dist/blocks.build.js:60778
+msgid "metaLineHeight"
+msgstr "metaLineHeight"
+
+#: dist/blocks.build.js:50050 dist/blocks.build.js:51797
+#: dist/blocks.build.js:60777
+msgid "metaLineHeightType"
+msgstr "metaLineHeightType"
+
+#: dist/blocks.build.js:50049 dist/blocks.build.js:51796
+#: dist/blocks.build.js:60776
+msgid "metaFontSizeTablet"
+msgstr "metaFontSizeTablet"
+
+#: dist/blocks.build.js:50048 dist/blocks.build.js:51795
+#: dist/blocks.build.js:60775
+msgid "metaFontSizeMobile"
+msgstr "metaFontSizeMobile"
+
+#: dist/blocks.build.js:50047 dist/blocks.build.js:51794
+#: dist/blocks.build.js:60774
+msgid "metaFontSize"
+msgstr "metaFontSize"
+
+#: dist/blocks.build.js:50046 dist/blocks.build.js:51793
+#: dist/blocks.build.js:60773
+msgid "metaFontSizeType"
+msgstr "metaFontSizeType"
+
+#: dist/blocks.build.js:50045 dist/blocks.build.js:51792
+#: dist/blocks.build.js:60772
+msgid "metaFontSubset"
+msgstr "metaFontSubset"
+
+#: dist/blocks.build.js:50044 dist/blocks.build.js:51791
+#: dist/blocks.build.js:60771
+msgid "metaFontWeight"
+msgstr "metaFontWeight"
+
+#: dist/blocks.build.js:50043 dist/blocks.build.js:51790
+#: dist/blocks.build.js:60770
+msgid "metaFontFamily"
+msgstr "metaFontFamily"
+
+#: dist/blocks.build.js:50042 dist/blocks.build.js:51789
+#: dist/blocks.build.js:60769
+msgid "metaLoadGoogleFonts"
+msgstr "metaLoadGoogleFonts"
+
+#: dist/blocks.build.js:50036 dist/blocks.build.js:51783
+#: dist/blocks.build.js:60763
+msgid "Meta"
+msgstr "Meta"
+
+#: dist/blocks.build.js:50027 dist/blocks.build.js:51774
+#: dist/blocks.build.js:60754 dist/blocks.build.js:73814
+#: dist/blocks.build.js:78284 dist/blocks.build.js:84350
+#: dist/blocks.build.js:96216
+msgid "titleLineHeightTablet"
+msgstr "titleLineHeightTablet"
+
+#: dist/blocks.build.js:50026 dist/blocks.build.js:51773
+#: dist/blocks.build.js:60753 dist/blocks.build.js:73813
+#: dist/blocks.build.js:78283 dist/blocks.build.js:84349
+#: dist/blocks.build.js:96215
+msgid "titleLineHeightMobile"
+msgstr "titleLineHeightMobile"
+
+#: dist/blocks.build.js:50025 dist/blocks.build.js:51772
+#: dist/blocks.build.js:60752 dist/blocks.build.js:73812
+#: dist/blocks.build.js:78282 dist/blocks.build.js:84348
+#: dist/blocks.build.js:96214
+msgid "titleLineHeight"
+msgstr "titleLineHeight"
+
+#: dist/blocks.build.js:50024 dist/blocks.build.js:51771
+#: dist/blocks.build.js:60751 dist/blocks.build.js:73811
+#: dist/blocks.build.js:78281 dist/blocks.build.js:84347
+#: dist/blocks.build.js:96213
+msgid "titleLineHeightType"
+msgstr "titleLineHeightType"
+
+#: dist/blocks.build.js:50023 dist/blocks.build.js:51770
+#: dist/blocks.build.js:60750 dist/blocks.build.js:73810
+#: dist/blocks.build.js:78280 dist/blocks.build.js:84346
+#: dist/blocks.build.js:96212
+msgid "titleFontSizeTablet"
+msgstr "titleFontSizeTablet"
+
+#: dist/blocks.build.js:50022 dist/blocks.build.js:51769
+#: dist/blocks.build.js:60749 dist/blocks.build.js:73809
+#: dist/blocks.build.js:78279 dist/blocks.build.js:84345
+#: dist/blocks.build.js:96211
+msgid "titleFontSizeMobile"
+msgstr "titleFontSizeMobile"
+
+#: dist/blocks.build.js:50021 dist/blocks.build.js:51768
+#: dist/blocks.build.js:60748 dist/blocks.build.js:73808
+#: dist/blocks.build.js:78278 dist/blocks.build.js:84344
+#: dist/blocks.build.js:96210
+msgid "titleFontSize"
+msgstr "titleFontSize"
+
+#: dist/blocks.build.js:50020 dist/blocks.build.js:51767
+#: dist/blocks.build.js:60747 dist/blocks.build.js:73807
+#: dist/blocks.build.js:78277 dist/blocks.build.js:84343
+#: dist/blocks.build.js:96209
+msgid "titleFontSizeType"
+msgstr "titleFontSizeType"
+
+#: dist/blocks.build.js:50019 dist/blocks.build.js:51766
+#: dist/blocks.build.js:60746 dist/blocks.build.js:73806
+#: dist/blocks.build.js:78276 dist/blocks.build.js:84342
+#: dist/blocks.build.js:96208
+msgid "titleFontSubset"
+msgstr "titleFontSubset"
+
+#: dist/blocks.build.js:50018 dist/blocks.build.js:51765
+#: dist/blocks.build.js:60745 dist/blocks.build.js:73805
+#: dist/blocks.build.js:78275 dist/blocks.build.js:84341
+#: dist/blocks.build.js:96207
+msgid "titleFontWeight"
+msgstr "titleFontWeight"
+
+#: dist/blocks.build.js:50017 dist/blocks.build.js:51764
+#: dist/blocks.build.js:60744 dist/blocks.build.js:73804
+#: dist/blocks.build.js:78274 dist/blocks.build.js:84340
+#: dist/blocks.build.js:96206
+msgid "titleFontFamily"
+msgstr "titleFontFamily"
+
+#: dist/blocks.build.js:50016 dist/blocks.build.js:51763
+#: dist/blocks.build.js:60743 dist/blocks.build.js:73803
+#: dist/blocks.build.js:78273 dist/blocks.build.js:84339
+msgid "titleLoadGoogleFonts"
+msgstr "titleLoadGoogleFonts"
+
+#: dist/blocks.build.js:50005 dist/blocks.build.js:51752
+#: dist/blocks.build.js:60732 dist/blocks.build.js:69742
+#: dist/blocks.build.js:73786 dist/blocks.build.js:78262
+msgid "Title Tag"
+msgstr "Etiqueta del título"
+
+#: dist/blocks.build.js:49977 dist/blocks.build.js:51729
+#: dist/blocks.build.js:60709 dist/blocks.build.js:67446
+#: dist/blocks.build.js:69161 dist/blocks.build.js:69475
+#: dist/blocks.build.js:69542 dist/blocks.build.js:75141
+#: dist/blocks.build.js:77084 dist/blocks.build.js:84108
+#: dist/blocks.build.js:84135 dist/blocks.build.js:89828
+#: dist/blocks.build.js:91882 dist/blocks.build.js:93902
+#: dist/blocks.build.js:94602 dist/blocks.build.js:96257
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: dist/blocks.build.js:49973 dist/blocks.build.js:51725
+#: dist/blocks.build.js:60705 dist/blocks.build.js:67442
+#: dist/blocks.build.js:69157 dist/blocks.build.js:69471
+#: dist/blocks.build.js:69538 dist/blocks.build.js:71991
+#: dist/blocks.build.js:73596 dist/blocks.build.js:75137
+#: dist/blocks.build.js:77080 dist/blocks.build.js:80455
+#: dist/blocks.build.js:81741 dist/blocks.build.js:84104
+#: dist/blocks.build.js:84131 dist/blocks.build.js:84470
+#: dist/blocks.build.js:89824 dist/blocks.build.js:91878
+#: dist/blocks.build.js:93898 dist/blocks.build.js:94598
+#: dist/blocks.build.js:96253
+msgid "Normal"
+msgstr "Normal"
+
+#: dist/blocks.build.js:49965 dist/blocks.build.js:51717
+#: dist/blocks.build.js:60697
+msgid "Button Colors"
+msgstr "Colores del botón"
+
+#: dist/blocks.build.js:49937 dist/blocks.build.js:51689
+#: dist/blocks.build.js:60669 dist/blocks.build.js:67376
+#: dist/blocks.build.js:84031 dist/blocks.build.js:89849
+#: dist/blocks.build.js:91903 dist/blocks.build.js:94545
+msgid "Button Padding (px)"
+msgstr "Espaciado interior del botón (px)"
+
+#: dist/blocks.build.js:49924 dist/blocks.build.js:51676
+#: dist/blocks.build.js:60656 dist/blocks.build.js:69453
+#: dist/blocks.build.js:84086
+msgid "Rounded Corner"
+msgstr "Esquinas redondeadas"
+
+#: dist/blocks.build.js:49903 dist/blocks.build.js:51655
+#: dist/blocks.build.js:60635 dist/blocks.build.js:67402
+#: dist/blocks.build.js:69427 dist/blocks.build.js:84061
+msgid "Button Border"
+msgstr "Borde del botón"
+
+#: dist/blocks.build.js:49897 dist/blocks.build.js:51649
+#: dist/blocks.build.js:60629 dist/blocks.build.js:82203
+msgid "ctaLineHeightTablet"
+msgstr "ctaLineHeightTablet"
+
+#: dist/blocks.build.js:49896 dist/blocks.build.js:51648
+#: dist/blocks.build.js:60628 dist/blocks.build.js:82202
+msgid "ctaLineHeightMobile"
+msgstr "ctaLineHeightMobile"
+
+#: dist/blocks.build.js:49895 dist/blocks.build.js:51647
+#: dist/blocks.build.js:60627 dist/blocks.build.js:82201
+msgid "ctaLineHeight"
+msgstr "ctaLineHeight"
+
+#: dist/blocks.build.js:49894 dist/blocks.build.js:51646
+#: dist/blocks.build.js:60626 dist/blocks.build.js:82200
+msgid "ctaLineHeightType"
+msgstr "ctaLineHeightType"
+
+#: dist/blocks.build.js:49893 dist/blocks.build.js:51645
+#: dist/blocks.build.js:60625 dist/blocks.build.js:69338
+#: dist/blocks.build.js:82199 dist/blocks.build.js:83970
+msgid "ctaFontSizeTablet"
+msgstr "ctaFontSizeTablet"
+
+#: dist/blocks.build.js:49892 dist/blocks.build.js:51644
+#: dist/blocks.build.js:60624 dist/blocks.build.js:69337
+#: dist/blocks.build.js:82198 dist/blocks.build.js:83969
+msgid "ctaFontSizeMobile"
+msgstr "ctaFontSizeMobile"
+
+#: dist/blocks.build.js:49891 dist/blocks.build.js:51643
+#: dist/blocks.build.js:60623 dist/blocks.build.js:69336
+#: dist/blocks.build.js:82197 dist/blocks.build.js:83968
+msgid "ctaFontSize"
+msgstr "ctaFontSize"
+
+#: dist/blocks.build.js:49890 dist/blocks.build.js:51642
+#: dist/blocks.build.js:60622 dist/blocks.build.js:69335
+#: dist/blocks.build.js:82196 dist/blocks.build.js:83967
+msgid "ctaFontSizeType"
+msgstr "ctaFontSizeType"
+
+#: dist/blocks.build.js:49889 dist/blocks.build.js:51641
+#: dist/blocks.build.js:60621 dist/blocks.build.js:69334
+#: dist/blocks.build.js:82195 dist/blocks.build.js:83966
+msgid "ctaFontSubset"
+msgstr "ctaFontSubset"
+
+#: dist/blocks.build.js:49888 dist/blocks.build.js:51640
+#: dist/blocks.build.js:60620 dist/blocks.build.js:69333
+#: dist/blocks.build.js:82194 dist/blocks.build.js:83965
+msgid "ctaFontWeight"
+msgstr "ctaFontWeight"
+
+#: dist/blocks.build.js:49887 dist/blocks.build.js:51639
+#: dist/blocks.build.js:60619 dist/blocks.build.js:69332
+#: dist/blocks.build.js:82193 dist/blocks.build.js:83964
+msgid "ctaFontFamily"
+msgstr "ctaFontFamily"
+
+#: dist/blocks.build.js:49886 dist/blocks.build.js:51638
+#: dist/blocks.build.js:60618 dist/blocks.build.js:69331
+#: dist/blocks.build.js:82192 dist/blocks.build.js:83963
+msgid "ctaLoadGoogleFonts"
+msgstr "ctaLoadGoogleFonts"
+
+#: dist/blocks.build.js:49876 dist/blocks.build.js:51628
+#: dist/blocks.build.js:60608 dist/blocks.build.js:69315
+#: dist/blocks.build.js:69321 dist/blocks.build.js:83947
+#: dist/blocks.build.js:83953 dist/blocks.build.js:94479
+msgid "Text"
+msgstr "Texto"
+
+#: dist/blocks.build.js:49873 dist/blocks.build.js:51625
+#: dist/blocks.build.js:60605
+msgid "Button Text"
+msgstr "Botón de Texto"
+
+#: dist/blocks.build.js:49860 dist/blocks.build.js:51612
+#: dist/blocks.build.js:60592 dist/blocks.build.js:82058
+msgid "Open links in New Tab"
+msgstr "Abrir enlaces en una nueva pestaña"
+
+#: dist/blocks.build.js:49853 dist/blocks.build.js:51605
+#: dist/blocks.build.js:60585
+msgid "Show Read More Link"
+msgstr "Mostrar enlace «leer más»"
+
+#: dist/blocks.build.js:49851 dist/blocks.build.js:51603
+#: dist/blocks.build.js:60583
+msgid "Read More Link"
+msgstr "Enlace de leer más"
+
+#: dist/blocks.build.js:49839 dist/blocks.build.js:51591
+#: dist/blocks.build.js:60571 dist/blocks.build.js:82030
+msgid "Excerpt Length"
+msgstr "Tamaño del extracto"
+
+#: dist/blocks.build.js:49832 dist/blocks.build.js:51584
+#: dist/blocks.build.js:60564
+msgid "Show Excerpt"
+msgstr "Mostrar extracto"
+
+#: dist/blocks.build.js:49825 dist/blocks.build.js:51577
+#: dist/blocks.build.js:60557
+msgid "Show Taxonomy"
+msgstr "Mostrar taxonomía"
+
+#: dist/blocks.build.js:49818 dist/blocks.build.js:51570
+#: dist/blocks.build.js:60550
+msgid "Show Comment"
+msgstr "Mostrar comentarios"
+
+#: dist/blocks.build.js:49811 dist/blocks.build.js:51563
+#: dist/blocks.build.js:60543
+msgid "Show Date"
+msgstr "Mostrar fecha"
+
+#: dist/blocks.build.js:49804 dist/blocks.build.js:51556
+#: dist/blocks.build.js:60536
+msgid "Show Author"
+msgstr "Mostrar autor"
+
+#: dist/blocks.build.js:49797 dist/blocks.build.js:51549
+#: dist/blocks.build.js:60529
+msgid "Show Title"
+msgstr "Mostrar el título"
+
+#: dist/blocks.build.js:49795 dist/blocks.build.js:51547
+#: dist/blocks.build.js:60527 dist/blocks.build.js:69684
+#: dist/blocks.build.js:78290 dist/blocks.build.js:80772
+#: dist/blocks.build.js:82007 dist/blocks.build.js:82105
+#: dist/blocks.build.js:84321 dist/blocks.build.js:89480
+#: dist/blocks.build.js:91473 dist/blocks.build.js:94136
+#: dist/blocks.build.js:96195 dist/blocks.build.js:98024
+#: dist/blocks.build.js:98121
+msgid "Content"
+msgstr "Contenido"
+
+#: dist/blocks.build.js:49785 dist/blocks.build.js:51537
+#: dist/blocks.build.js:60517
+msgid "Link Complete Box"
+msgstr "Caja completa de enlaces"
+
+#: dist/blocks.build.js:49775 dist/blocks.build.js:51527
+#: dist/blocks.build.js:60507
+msgid "Overlay Opacity"
+msgstr "Opacidad de la superposición"
+
+#: dist/blocks.build.js:49760 dist/blocks.build.js:51512
+#: dist/blocks.build.js:60492
+msgid "Background Overlay Color"
+msgstr "Color de superposición de fondo"
+
+#: dist/blocks.build.js:49752 dist/blocks.build.js:51504
+#: dist/blocks.build.js:60484 dist/blocks.build.js:65907
+#: dist/blocks.build.js:71477 dist/blocks.build.js:85712
+#: dist/blocks.build.js:88182 dist/blocks.build.js:96385
+#: dist/blocks.build.js:98330
+msgid "Background"
+msgstr "Fondo"
+
+#: dist/blocks.build.js:49752 dist/blocks.build.js:51504
+#: dist/blocks.build.js:60484 dist/blocks.build.js:70051
+#: dist/blocks.build.js:71962 dist/blocks.build.js:71973
+#: dist/blocks.build.js:73604 dist/blocks.build.js:77257
+#: dist/blocks.build.js:78685 dist/blocks.build.js:78696
+#: dist/blocks.build.js:80666 dist/blocks.build.js:81974
+#: dist/blocks.build.js:84502 dist/blocks.build.js:88461
+#: dist/blocks.build.js:93968
+msgid "Top"
+msgstr "Arriba"
+
+#: dist/blocks.build.js:49747 dist/blocks.build.js:51499
+#: dist/blocks.build.js:60479 dist/blocks.build.js:65969
+#: dist/blocks.build.js:71539 dist/blocks.build.js:71957
+#: dist/blocks.build.js:78680 dist/blocks.build.js:85774
+#: dist/blocks.build.js:88244
+msgid "Image Position"
+msgstr "Posición de la imagen"
+
+#: dist/blocks.build.js:49739 dist/blocks.build.js:51491
+#: dist/blocks.build.js:60471
+msgid "Image Sizes"
+msgstr "Tamaños de imagen"
+
+#: dist/blocks.build.js:49732 dist/blocks.build.js:51484
+#: dist/blocks.build.js:60464
+msgid "Show Featured Image"
+msgstr "Mostrar imagen destacada"
+
+#: dist/blocks.build.js:49730 dist/blocks.build.js:51482
+#: dist/blocks.build.js:60462 dist/blocks.build.js:65914
+#: dist/blocks.build.js:69947 dist/blocks.build.js:70043
+#: dist/blocks.build.js:71484 dist/blocks.build.js:71717
+#: dist/blocks.build.js:71946 dist/blocks.build.js:73546
+#: dist/blocks.build.js:75062 dist/blocks.build.js:76977
+#: dist/blocks.build.js:78426 dist/blocks.build.js:78671
+#: dist/blocks.build.js:81988 dist/blocks.build.js:85719
+#: dist/blocks.build.js:88189
+msgid "Image"
+msgstr "Imagen"
+
+#: dist/blocks.build.js:49721 dist/blocks.build.js:60365
+msgid "Equal Height"
+msgstr "Igualar altura"
+
+#: dist/blocks.build.js:49683 dist/blocks.build.js:49693
+#: dist/blocks.build.js:49703 dist/blocks.build.js:51442
+#: dist/blocks.build.js:51452 dist/blocks.build.js:51462
+#: dist/blocks.build.js:60327 dist/blocks.build.js:60337
+#: dist/blocks.build.js:60347 dist/blocks.build.js:71904
+#: dist/blocks.build.js:71914 dist/blocks.build.js:71924
+#: dist/blocks.build.js:78631 dist/blocks.build.js:78641
+#: dist/blocks.build.js:78651 dist/blocks.build.js:87665
+#: dist/blocks.build.js:98509 dist/blocks.build.js:98519
+#: dist/blocks.build.js:98529
+msgid "Columns"
+msgstr "Columna"
+
+#: dist/blocks.build.js:49660 dist/blocks.build.js:51419
+#: dist/blocks.build.js:60304 dist/blocks.build.js:81954
+msgid "Ascending"
+msgstr "Ascendiente"
+
+#: dist/blocks.build.js:49660 dist/blocks.build.js:51419
+#: dist/blocks.build.js:60304 dist/blocks.build.js:81954
+msgid "Descending"
+msgstr "Descendiente"
+
+#: dist/blocks.build.js:49655 dist/blocks.build.js:51414
+#: dist/blocks.build.js:60299 dist/blocks.build.js:81949
+msgid "Order"
+msgstr "Ordenar"
+
+#: dist/blocks.build.js:49652 dist/blocks.build.js:51411
+#: dist/blocks.build.js:60296 dist/blocks.build.js:81946
+msgid "Menu Order"
+msgstr "Orden del menú"
+
+#: dist/blocks.build.js:49652 dist/blocks.build.js:51411
+#: dist/blocks.build.js:60296 dist/blocks.build.js:81946
+msgid "Random"
+msgstr "Aleatorio"
+
+#: dist/blocks.build.js:49652 dist/blocks.build.js:50002
+#: dist/blocks.build.js:51411 dist/blocks.build.js:60296
+#: dist/blocks.build.js:73797 dist/blocks.build.js:78259
+#: dist/blocks.build.js:81946 dist/blocks.build.js:96199
+msgid "Title"
+msgstr "Título"
+
+#: dist/blocks.build.js:49652 dist/blocks.build.js:51411
+#: dist/blocks.build.js:60296 dist/blocks.build.js:80483
+#: dist/blocks.build.js:81946 dist/blocks.build.js:82132
+msgid "Date"
+msgstr "Fecha"
+
+#: dist/blocks.build.js:49647 dist/blocks.build.js:51406
+#: dist/blocks.build.js:60291 dist/blocks.build.js:81941
+msgid "Order By"
+msgstr "Ordenar por "
+
+#: dist/blocks.build.js:49620 dist/blocks.build.js:51379
+#: dist/blocks.build.js:60264 dist/blocks.build.js:81914
+msgid "Taxonomy"
+msgstr "Clasificación"
+
+#: dist/blocks.build.js:49611 dist/blocks.build.js:51370
+#: dist/blocks.build.js:60255 dist/blocks.build.js:81905
+msgid "Post Type"
+msgstr "Tipo de contenido"
+
+#: dist/blocks.build.js:49589 dist/blocks.build.js:51349
+#: dist/blocks.build.js:60234 dist/blocks.build.js:81585
+msgid "All"
+msgstr "Todo"
+
+#: dist/blocks.build.js:49587 dist/blocks.build.js:51347
+#: dist/blocks.build.js:60232 dist/blocks.build.js:81583
+msgid "Select Taxonomy"
+msgstr "Seleccionar taxonomía"
+
+#: dist/blocks.build.js:49520 dist/blocks.build.js:51280
+#: dist/blocks.build.js:60165 dist/blocks.build.js:66306
+#: dist/blocks.build.js:67492 dist/blocks.build.js:69604
+#: dist/blocks.build.js:71627 dist/blocks.build.js:80414
+#: dist/blocks.build.js:80442 dist/blocks.build.js:81698
+#: dist/blocks.build.js:81728 dist/blocks.build.js:84197
+#: dist/blocks.build.js:85128 dist/blocks.build.js:88520
+#: dist/blocks.build.js:89444 dist/blocks.build.js:89705
+#: dist/blocks.build.js:90076 dist/blocks.build.js:91437
+#: dist/blocks.build.js:91759 dist/blocks.build.js:92130
+#: dist/blocks.build.js:94012 dist/blocks.build.js:96732
+#: dist/blocks.build.js:98943
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: dist/blocks.build.js:49503 dist/blocks.build.js:51263
+#: dist/blocks.build.js:60148 dist/blocks.build.js:65922
+#: dist/blocks.build.js:67475 dist/blocks.build.js:69584
+#: dist/blocks.build.js:71492 dist/blocks.build.js:75123
+#: dist/blocks.build.js:80408 dist/blocks.build.js:80436
+#: dist/blocks.build.js:80858 dist/blocks.build.js:81692
+#: dist/blocks.build.js:81722 dist/blocks.build.js:81772
+#: dist/blocks.build.js:84177 dist/blocks.build.js:85727
+#: dist/blocks.build.js:88197 dist/blocks.build.js:89685
+#: dist/blocks.build.js:89995 dist/blocks.build.js:91567
+#: dist/blocks.build.js:91739 dist/blocks.build.js:92049
+#: dist/blocks.build.js:96578 dist/blocks.build.js:98006
+#: dist/blocks.build.js:98335
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: dist/blocks.build.js:49486 dist/blocks.build.js:51246
+#: dist/blocks.build.js:60131 dist/blocks.build.js:65914
+#: dist/blocks.build.js:66006 dist/blocks.build.js:71484
+#: dist/blocks.build.js:84355 dist/blocks.build.js:84395
+#: dist/blocks.build.js:85719 dist/blocks.build.js:85811
+#: dist/blocks.build.js:87330 dist/blocks.build.js:87459
+#: dist/blocks.build.js:88189 dist/blocks.build.js:89506
+#: dist/blocks.build.js:89546 dist/blocks.build.js:91509
+#: dist/blocks.build.js:91550 dist/blocks.build.js:96570
+msgid "Color"
+msgstr "Color"
+
+#: dist/blocks.build.js:49464 dist/blocks.build.js:51224
+#: dist/blocks.build.js:60109 dist/blocks.build.js:67548
+#: dist/blocks.build.js:69664 dist/blocks.build.js:84257
+#: dist/blocks.build.js:89765 dist/blocks.build.js:91819
+#: dist/blocks.build.js:94076 dist/blocks.build.js:96749
+msgid "Border Hover Color"
+msgstr "Color de borde al pasar el cursor"
+
+#: dist/blocks.build.js:49447 dist/blocks.build.js:51207
+#: dist/blocks.build.js:60092 dist/blocks.build.js:67531
+#: dist/blocks.build.js:69644 dist/blocks.build.js:75129
+#: dist/blocks.build.js:84237 dist/blocks.build.js:89745
+#: dist/blocks.build.js:91799 dist/blocks.build.js:94114
+#: dist/blocks.build.js:96668
+msgid "Background Hover Color"
+msgstr "Color de fondo al pasar el cursor"
+
+#: dist/blocks.build.js:49430 dist/blocks.build.js:51190
+#: dist/blocks.build.js:60075 dist/blocks.build.js:94097
+msgid "Hover Color"
+msgstr "Color al pasar el cursor"
+
+#: dist/blocks.build.js:49189
+msgid "grid"
+msgstr "cuadrícula"
+
+#: dist/blocks.build.js:49189 dist/blocks.build.js:50958
+#: dist/blocks.build.js:59812 dist/blocks.build.js:81285
+msgid "post"
+msgstr "entrada"
+
+#: dist/blocks.build.js:48943 dist/blocks.build.js:49536
+#: dist/blocks.build.js:51296 dist/blocks.build.js:60181
+#: dist/blocks.build.js:69084 dist/blocks.build.js:71250
+#: dist/blocks.build.js:73433 dist/blocks.build.js:75241
+#: dist/blocks.build.js:77112 dist/blocks.build.js:78210
+#: dist/blocks.build.js:80492 dist/blocks.build.js:81609
+#: dist/blocks.build.js:83889 dist/blocks.build.js:89306
+#: dist/blocks.build.js:91299 dist/blocks.build.js:93559
+msgid "em"
+msgstr "em"
+
+#: dist/blocks.build.js:48943 dist/blocks.build.js:49536
+#: dist/blocks.build.js:51296 dist/blocks.build.js:60181
+#: dist/blocks.build.js:69084 dist/blocks.build.js:71250
+#: dist/blocks.build.js:73433 dist/blocks.build.js:75241
+#: dist/blocks.build.js:77112 dist/blocks.build.js:78210
+#: dist/blocks.build.js:80492 dist/blocks.build.js:81609
+#: dist/blocks.build.js:83889 dist/blocks.build.js:89306
+#: dist/blocks.build.js:91299 dist/blocks.build.js:93559
+msgid "px"
+msgstr "px"
+
+#: dist/blocks.build.js:14288
+msgid "Font Subset"
+msgstr "Familia de la fuente"
+
+#: dist/blocks.build.js:14280
+msgid "Font Weight"
+msgstr "Peso de fuente"
+
+#: dist/blocks.build.js:14268
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: dist/blocks.build.js:14165 dist/blocks.build.js:90114
+msgid "Default"
+msgstr "Por defecto"
+
+#: dist/blocks.build.js:11476
+msgid "Separator Bottom Spacing (px)"
+msgstr "Espaciado inferior del separador (px)"
+
+#: dist/blocks.build.js:11464
+msgid "Heading Bottom Spacing (px)"
+msgstr "Espaciado inferior del encabezado (px)"
+
+#: dist/blocks.build.js:11462 dist/blocks.build.js:50161
+#: dist/blocks.build.js:51908 dist/blocks.build.js:60905
+#: dist/blocks.build.js:65414 dist/blocks.build.js:69835
+#: dist/blocks.build.js:71399 dist/blocks.build.js:73918
+#: dist/blocks.build.js:78477 dist/blocks.build.js:80680
+#: dist/blocks.build.js:82268 dist/blocks.build.js:84414
+#: dist/blocks.build.js:85219 dist/blocks.build.js:87755
+#: dist/blocks.build.js:89877 dist/blocks.build.js:91931
+#: dist/blocks.build.js:94350
+msgid "Spacing"
+msgstr "Espaciado"
+
+#: dist/blocks.build.js:11443 dist/blocks.build.js:69288
+#: dist/blocks.build.js:78397
+msgid "Separator Color"
+msgstr "Color del separador"
+
+#: dist/blocks.build.js:11426 dist/blocks.build.js:49914
+#: dist/blocks.build.js:51666 dist/blocks.build.js:60646
+#: dist/blocks.build.js:65357 dist/blocks.build.js:69275
+#: dist/blocks.build.js:69441 dist/blocks.build.js:72002
+#: dist/blocks.build.js:73618 dist/blocks.build.js:78717
+#: dist/blocks.build.js:84075 dist/blocks.build.js:87355
+#: dist/blocks.build.js:87484 dist/blocks.build.js:98400
+#: dist/blocks.build.js:98434 dist/blocks.build.js:98468
+msgid "Width"
+msgstr "Ancho"
+
+#: dist/blocks.build.js:11409 dist/blocks.build.js:48948
+#: dist/blocks.build.js:65377 dist/blocks.build.js:65440
+#: dist/blocks.build.js:65512 dist/blocks.build.js:65584
+#: dist/blocks.build.js:65685 dist/blocks.build.js:65757
+#: dist/blocks.build.js:65829 dist/blocks.build.js:67045
+#: dist/blocks.build.js:67094 dist/blocks.build.js:67143
+#: dist/blocks.build.js:67220 dist/blocks.build.js:67269
+#: dist/blocks.build.js:67319 dist/blocks.build.js:69258
+#: dist/blocks.build.js:73437 dist/blocks.build.js:73460
+#: dist/blocks.build.js:73483 dist/blocks.build.js:73506
+#: dist/blocks.build.js:75245 dist/blocks.build.js:75268
+#: dist/blocks.build.js:77116 dist/blocks.build.js:77139
+#: dist/blocks.build.js:85245 dist/blocks.build.js:85317
+#: dist/blocks.build.js:85389 dist/blocks.build.js:85490
+#: dist/blocks.build.js:85562 dist/blocks.build.js:85634
+#: dist/blocks.build.js:87695 dist/blocks.build.js:87781
+#: dist/blocks.build.js:87853 dist/blocks.build.js:87925
+#: dist/blocks.build.js:88026 dist/blocks.build.js:88076
+#: dist/blocks.build.js:88126 dist/blocks.build.js:89412
+#: dist/blocks.build.js:89634 dist/blocks.build.js:90047
+#: dist/blocks.build.js:90355 dist/blocks.build.js:91405
+#: dist/blocks.build.js:91688 dist/blocks.build.js:92101
+#: dist/blocks.build.js:92314 dist/blocks.build.js:93600
+#: dist/blocks.build.js:93623 dist/blocks.build.js:96411
+#: dist/blocks.build.js:96459 dist/blocks.build.js:96507
+#: dist/blocks.build.js:98155 dist/blocks.build.js:98193
+#: dist/blocks.build.js:98231 dist/blocks.build.js:98383
+#: dist/blocks.build.js:98417 dist/blocks.build.js:98451
+#: dist/blocks.build.js:98572 dist/blocks.build.js:98622
+#: dist/blocks.build.js:98672 dist/blocks.build.js:98750
+#: dist/blocks.build.js:98800 dist/blocks.build.js:98850
+msgid "Size Type"
+msgstr "Tipo de tamaño"
+
+#: dist/blocks.build.js:11396 dist/blocks.build.js:93673
+msgid "Thickness (px)"
+msgstr "Espesor (px)"
+
+#: dist/blocks.build.js:11390 dist/blocks.build.js:49911
+#: dist/blocks.build.js:51663 dist/blocks.build.js:60643
+#: dist/blocks.build.js:66278 dist/blocks.build.js:67407
+#: dist/blocks.build.js:69240 dist/blocks.build.js:69435
+#: dist/blocks.build.js:71606 dist/blocks.build.js:78366
+#: dist/blocks.build.js:84069 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Dotted"
+msgstr "Punteado"
+
+#: dist/blocks.build.js:11390 dist/blocks.build.js:49911
+#: dist/blocks.build.js:51663 dist/blocks.build.js:60643
+#: dist/blocks.build.js:66278 dist/blocks.build.js:67407
+#: dist/blocks.build.js:69240 dist/blocks.build.js:69435
+#: dist/blocks.build.js:71606 dist/blocks.build.js:78366
+#: dist/blocks.build.js:84069 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Dashed"
+msgstr "Guiones"
+
+#: dist/blocks.build.js:11390 dist/blocks.build.js:49911
+#: dist/blocks.build.js:51663 dist/blocks.build.js:60643
+#: dist/blocks.build.js:66278 dist/blocks.build.js:67407
+#: dist/blocks.build.js:69240 dist/blocks.build.js:69435
+#: dist/blocks.build.js:71606 dist/blocks.build.js:78366
+#: dist/blocks.build.js:84069 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Double"
+msgstr "Doble"
+
+#: dist/blocks.build.js:11390 dist/blocks.build.js:49911
+#: dist/blocks.build.js:51663 dist/blocks.build.js:60643
+#: dist/blocks.build.js:66278 dist/blocks.build.js:67407
+#: dist/blocks.build.js:69240 dist/blocks.build.js:69435
+#: dist/blocks.build.js:71606 dist/blocks.build.js:78366
+#: dist/blocks.build.js:84069 dist/blocks.build.js:85100
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:96704 dist/blocks.build.js:98915
+msgid "Solid"
+msgstr "Sólido"
+
+#: dist/blocks.build.js:11390 dist/blocks.build.js:49911
+#: dist/blocks.build.js:51663 dist/blocks.build.js:60643
+#: dist/blocks.build.js:65914 dist/blocks.build.js:66278
+#: dist/blocks.build.js:67407 dist/blocks.build.js:67694
+#: dist/blocks.build.js:69240 dist/blocks.build.js:69315
+#: dist/blocks.build.js:69435 dist/blocks.build.js:70030
+#: dist/blocks.build.js:71484 dist/blocks.build.js:71606
+#: dist/blocks.build.js:71978 dist/blocks.build.js:73584
+#: dist/blocks.build.js:75361 dist/blocks.build.js:77239
+#: dist/blocks.build.js:78366 dist/blocks.build.js:78701
+#: dist/blocks.build.js:80671 dist/blocks.build.js:81979
+#: dist/blocks.build.js:83947 dist/blocks.build.js:84069
+#: dist/blocks.build.js:84475 dist/blocks.build.js:85100
+#: dist/blocks.build.js:85719 dist/blocks.build.js:87311
+#: dist/blocks.build.js:87676 dist/blocks.build.js:88189
+#: dist/blocks.build.js:88492 dist/blocks.build.js:89398
+#: dist/blocks.build.js:89620 dist/blocks.build.js:91391
+#: dist/blocks.build.js:91674 dist/blocks.build.js:93670
+#: dist/blocks.build.js:93923 dist/blocks.build.js:96704
+#: dist/blocks.build.js:98915
+msgid "None"
+msgstr "Ninguno"
+
+#: dist/blocks.build.js:11385 dist/blocks.build.js:49906
+#: dist/blocks.build.js:51658 dist/blocks.build.js:60638
+#: dist/blocks.build.js:67405 dist/blocks.build.js:69235
+#: dist/blocks.build.js:69430 dist/blocks.build.js:84064
+#: dist/blocks.build.js:98326
+msgid "Style"
+msgstr "Estilo"
+
+#: dist/blocks.build.js:11383 dist/blocks.build.js:69224
+#: dist/blocks.build.js:78359
+msgid "Separator"
+msgstr "Separador"
+
+#: dist/blocks.build.js:11366
+msgid "Sub Heading Color"
+msgstr "Color del subencabezado"
+
+#: dist/blocks.build.js:11361 dist/blocks.build.js:69810
+#: dist/blocks.build.js:80789 dist/blocks.build.js:82122
+msgid "subHeadLineHeightTablet"
+msgstr "subHeadLineHeightTablet"
+
+#: dist/blocks.build.js:11360 dist/blocks.build.js:69809
+#: dist/blocks.build.js:80788 dist/blocks.build.js:82121
+msgid "subHeadLineHeightMobile"
+msgstr "subHeadLineHeightMobile"
+
+#: dist/blocks.build.js:11359 dist/blocks.build.js:69808
+#: dist/blocks.build.js:80787 dist/blocks.build.js:82120
+msgid "subHeadLineHeight"
+msgstr "subHeadLineHeight"
+
+#: dist/blocks.build.js:11358 dist/blocks.build.js:69807
+#: dist/blocks.build.js:80786 dist/blocks.build.js:82119
+msgid "subHeadLineHeightType"
+msgstr "subHeadLineHeightType"
+
+#: dist/blocks.build.js:11357 dist/blocks.build.js:69806
+#: dist/blocks.build.js:80785 dist/blocks.build.js:82118
+msgid "subHeadFontSizeTablet"
+msgstr "subHeadFontSizeTablet"
+
+#: dist/blocks.build.js:11356 dist/blocks.build.js:69805
+#: dist/blocks.build.js:80784 dist/blocks.build.js:82117
+msgid "subHeadFontSizeMobile"
+msgstr "subHeadFontSizeMobile"
+
+#: dist/blocks.build.js:11355 dist/blocks.build.js:69804
+#: dist/blocks.build.js:80783 dist/blocks.build.js:82116
+msgid "subHeadFontSize"
+msgstr "subHeadFontSize"
+
+#: dist/blocks.build.js:11354 dist/blocks.build.js:69803
+#: dist/blocks.build.js:80782 dist/blocks.build.js:82115
+msgid "subHeadFontSizeType"
+msgstr "subHeadFontSizeType"
+
+#: dist/blocks.build.js:11353 dist/blocks.build.js:69802
+#: dist/blocks.build.js:80781 dist/blocks.build.js:82114
+msgid "subHeadFontSubset"
+msgstr "subHeadFontSubset"
+
+#: dist/blocks.build.js:11352 dist/blocks.build.js:69801
+#: dist/blocks.build.js:80780 dist/blocks.build.js:82113
+msgid "subHeadFontWeight"
+msgstr "subHeadFontWeight"
+
+#: dist/blocks.build.js:11351 dist/blocks.build.js:69800
+#: dist/blocks.build.js:80779 dist/blocks.build.js:82112
+msgid "subHeadFontFamily"
+msgstr "subHeadFontFamily"
+
+#: dist/blocks.build.js:11350 dist/blocks.build.js:69799
+#: dist/blocks.build.js:80778 dist/blocks.build.js:82111
+msgid "subHeadLoadGoogleFonts"
+msgstr "subHeadLoadGoogleFonts"
+
+#: dist/blocks.build.js:11344
+msgid "Sub-Heading"
+msgstr "Subencabezado"
+
+#: dist/blocks.build.js:11326 dist/blocks.build.js:80846
+#: dist/blocks.build.js:81801 dist/blocks.build.js:98060
+msgid "Heading Color"
+msgstr "Color de encabezado"
+
+#: dist/blocks.build.js:11321 dist/blocks.build.js:69764
+#: dist/blocks.build.js:80766 dist/blocks.build.js:82096
+msgid "headLineHeightTablet"
+msgstr "headLineHeightTablet"
+
+#: dist/blocks.build.js:11320 dist/blocks.build.js:69763
+#: dist/blocks.build.js:80765 dist/blocks.build.js:82095
+msgid "headLineHeightMobile"
+msgstr "headLineHeightMobile"
+
+#: dist/blocks.build.js:11319 dist/blocks.build.js:69762
+#: dist/blocks.build.js:80764 dist/blocks.build.js:82094
+msgid "headLineHeight"
+msgstr "headLineHeight"
+
+#: dist/blocks.build.js:11318 dist/blocks.build.js:69761
+#: dist/blocks.build.js:80763 dist/blocks.build.js:82093
+msgid "headLineHeightType"
+msgstr "headLineHeightType"
+
+#: dist/blocks.build.js:11317 dist/blocks.build.js:69760
+#: dist/blocks.build.js:80762 dist/blocks.build.js:82092
+msgid "headFontSizeTablet"
+msgstr "headFontSizeTablet"
+
+#: dist/blocks.build.js:11316 dist/blocks.build.js:69759
+#: dist/blocks.build.js:80761 dist/blocks.build.js:82091
+msgid "headFontSizeMobile"
+msgstr "headFontSizeMobile"
+
+#: dist/blocks.build.js:11315 dist/blocks.build.js:69758
+#: dist/blocks.build.js:80760 dist/blocks.build.js:82090
+msgid "headFontSize"
+msgstr "headFontSize"
+
+#: dist/blocks.build.js:11314 dist/blocks.build.js:69757
+#: dist/blocks.build.js:80759 dist/blocks.build.js:82089
+msgid "headFontSizeType"
+msgstr "headFontSizeType"
+
+#: dist/blocks.build.js:11313 dist/blocks.build.js:69756
+#: dist/blocks.build.js:80758 dist/blocks.build.js:82088
+msgid "headFontSubset"
+msgstr "headFontSubset"
+
+#: dist/blocks.build.js:11312 dist/blocks.build.js:69755
+#: dist/blocks.build.js:80757 dist/blocks.build.js:82087
+msgid "headFontWeight"
+msgstr "headFontWeight"
+
+#: dist/blocks.build.js:11311 dist/blocks.build.js:69754
+#: dist/blocks.build.js:80756 dist/blocks.build.js:82086
+msgid "headFontFamily"
+msgstr "headFontFamily"
+
+#: dist/blocks.build.js:11310 dist/blocks.build.js:69753
+#: dist/blocks.build.js:80755 dist/blocks.build.js:82085
+msgid "headLoadGoogleFonts"
+msgstr "headLoadGoogleFonts"
+
+#: dist/blocks.build.js:11307 dist/blocks.build.js:11347
+#: dist/blocks.build.js:49883 dist/blocks.build.js:49998
+#: dist/blocks.build.js:50013 dist/blocks.build.js:50039
+#: dist/blocks.build.js:50066 dist/blocks.build.js:51635
+#: dist/blocks.build.js:51750 dist/blocks.build.js:51760
+#: dist/blocks.build.js:51786 dist/blocks.build.js:51813
+#: dist/blocks.build.js:60730 dist/blocks.build.js:60740
+#: dist/blocks.build.js:60766 dist/blocks.build.js:60793
+#: dist/blocks.build.js:67665 dist/blocks.build.js:69328
+#: dist/blocks.build.js:69696 dist/blocks.build.js:69750
+#: dist/blocks.build.js:69796 dist/blocks.build.js:71295
+#: dist/blocks.build.js:71302 dist/blocks.build.js:71325
+#: dist/blocks.build.js:71348 dist/blocks.build.js:73783
+#: dist/blocks.build.js:73800 dist/blocks.build.js:73823
+#: dist/blocks.build.js:73846 dist/blocks.build.js:73869
+#: dist/blocks.build.js:77348 dist/blocks.build.js:78255
+#: dist/blocks.build.js:78270 dist/blocks.build.js:78293
+#: dist/blocks.build.js:78316 dist/blocks.build.js:80580
+#: dist/blocks.build.js:80716 dist/blocks.build.js:80752
+#: dist/blocks.build.js:82082 dist/blocks.build.js:82108
+#: dist/blocks.build.js:82135 dist/blocks.build.js:82162
+#: dist/blocks.build.js:82189 dist/blocks.build.js:83960
+#: dist/blocks.build.js:84336 dist/blocks.build.js:84376
+#: dist/blocks.build.js:89487 dist/blocks.build.js:89527
+#: dist/blocks.build.js:89799 dist/blocks.build.js:89958
+#: dist/blocks.build.js:90122 dist/blocks.build.js:90212
+#: dist/blocks.build.js:91490 dist/blocks.build.js:91531
+#: dist/blocks.build.js:91853 dist/blocks.build.js:92012
+#: dist/blocks.build.js:92180 dist/blocks.build.js:92368
+#: dist/blocks.build.js:94143 dist/blocks.build.js:94183
+#: dist/blocks.build.js:94506 dist/blocks.build.js:96202
+#: dist/blocks.build.js:96225 dist/blocks.build.js:98041
+#: dist/blocks.build.js:98273
+msgid "Typography"
+msgstr "Tipografía"
+
+#: dist/blocks.build.js:11304
+msgid "Note: Anchors lets you link directly to a section on a page."
+msgstr "Nota: Un ancha te permite enlazar directamente a una sección en una página."
+
+#: dist/blocks.build.js:11299
+msgid "HTML Anchor"
+msgstr "Anclaje HTML"
+
+#: dist/blocks.build.js:11296 dist/blocks.build.js:50010
+#: dist/blocks.build.js:51757 dist/blocks.build.js:60737
+#: dist/blocks.build.js:69747 dist/blocks.build.js:73791
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079 dist/blocks.build.js:84333
+msgid "H6"
+msgstr "H6"
+
+#: dist/blocks.build.js:11296 dist/blocks.build.js:50010
+#: dist/blocks.build.js:51757 dist/blocks.build.js:60737
+#: dist/blocks.build.js:69747 dist/blocks.build.js:73791
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079 dist/blocks.build.js:84333
+msgid "H5"
+msgstr "H5"
+
+#: dist/blocks.build.js:11296 dist/blocks.build.js:50010
+#: dist/blocks.build.js:51757 dist/blocks.build.js:60737
+#: dist/blocks.build.js:69747 dist/blocks.build.js:73791
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079 dist/blocks.build.js:84333
+msgid "H4"
+msgstr "H4"
+
+#: dist/blocks.build.js:11296 dist/blocks.build.js:50010
+#: dist/blocks.build.js:51757 dist/blocks.build.js:60737
+#: dist/blocks.build.js:69747 dist/blocks.build.js:73791
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079 dist/blocks.build.js:84333
+msgid "H3"
+msgstr "H3"
+
+#: dist/blocks.build.js:11296 dist/blocks.build.js:50010
+#: dist/blocks.build.js:51757 dist/blocks.build.js:60737
+#: dist/blocks.build.js:69747 dist/blocks.build.js:73791
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079 dist/blocks.build.js:84333
+msgid "H2"
+msgstr "H2"
+
+#: dist/blocks.build.js:11296 dist/blocks.build.js:50010
+#: dist/blocks.build.js:51757 dist/blocks.build.js:60737
+#: dist/blocks.build.js:69747 dist/blocks.build.js:73791
+#: dist/blocks.build.js:78267 dist/blocks.build.js:80721
+#: dist/blocks.build.js:82079 dist/blocks.build.js:84333
+msgid "H1"
+msgstr "H1"
+
+#: dist/blocks.build.js:11291 dist/blocks.build.js:82074
+msgid "Heading Tag"
+msgstr "Etiqueta de encabezado"
+
+#: dist/blocks.build.js:11288 dist/blocks.build.js:80749
+#: dist/blocks.build.js:82071 dist/blocks.build.js:84325
+#: dist/blocks.build.js:98028
+msgid "Heading"
+msgstr "Encabezado"
+
+#: dist/blocks.build.js:10752
+msgid "heading"
+msgstr "cabecera"
+
+#: dist/blocks.build.js:10752 dist/blocks.build.js:49189
+#: dist/blocks.build.js:50958 dist/blocks.build.js:59812
+#: dist/blocks.build.js:64661 dist/blocks.build.js:66594
+#: dist/blocks.build.js:67992 dist/blocks.build.js:70705
+#: dist/blocks.build.js:72815 dist/blocks.build.js:74647
+#: dist/blocks.build.js:76045 dist/blocks.build.js:76139
+#: dist/blocks.build.js:77837 dist/blocks.build.js:79432
+#: dist/blocks.build.js:81285 dist/blocks.build.js:83392
+#: dist/blocks.build.js:86594 dist/blocks.build.js:89038
+#: dist/blocks.build.js:91012 dist/blocks.build.js:95515
+#: dist/blocks.build.js:97161
+msgid "uag"
+msgstr "uag"
+
+#: dist/blocks.build.js:10752
+msgid "advanced heading"
+msgstr "encabezado avanzado"
+
+#: dist/blocks.build.js:10631
+msgid "Add a header to begin generating the table of contents"
+msgstr "Añade un encabezado para empezar a generar la tabla de contenido"
+
+#: dist/blocks.build.js:10301 dist/blocks.build.js:82159
+#: dist/blocks.build.js:94180
+msgid "Author"
+msgstr "Autor"
+
+#: dist/blocks.build.js:10224
+msgid "Write a Quote"
+msgstr "Escribir una cita"
+
+#: dist/blocks.build.js:9272 dist/blocks.build.js:78313
+msgid "Price"
+msgstr "Precio"
+
+#: dist/blocks.build.js:9181 dist/blocks.build.js:73398
+msgid "Write a Title"
+msgstr "Escribir un titulo"
+
+#: dist/blocks.build.js:8969
+msgid "Write Description"
+msgstr "Escribir descripción"
+
+#: dist/blocks.build.js:8885
+msgid "Company Name"
+msgstr "Nombre de la empresa"
+
+#: dist/blocks.build.js:8788
+msgid "Author Name"
+msgstr "Nombre del autor"
+
+#: dist/blocks.build.js:7990 dist/blocks.build.js:9361
+#: dist/blocks.build.js:9667 dist/blocks.build.js:11521
+#: dist/blocks.build.js:73355 dist/blocks.build.js:73361
+#: dist/blocks.build.js:81080
+msgid "Write a Description"
+msgstr "Escribir una descripción"
+
+#: dist/blocks.build.js:7909 dist/blocks.build.js:9588
+#: dist/blocks.build.js:11494 dist/blocks.build.js:81056
+msgid "Write a Heading"
+msgstr "Escribir un encabezado"
+
+#: dist/blocks.build.js:7830
+msgid "Write a Prefix"
+msgstr "Escribir un prefijo"
+
+#: dist/blocks.build.js:771 dist/blocks.build.js:772 dist/blocks.build.js:773
+#: dist/blocks.build.js:67076 dist/blocks.build.js:67125
+#: dist/blocks.build.js:67174
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: dist/blocks.build.js:754 dist/blocks.build.js:755 dist/blocks.build.js:756
+#: dist/blocks.build.js:67251 dist/blocks.build.js:67300
+#: dist/blocks.build.js:67350
+msgid "Line Height"
+msgstr "Interlineado"
+
+#: dist/blocks.build.js:686
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: dist/blocks.build.js:682
+msgid "Hide Advanced"
+msgstr "Ocultar avanzado"
+
+#: admin/uagb-general.php:186
+msgid "Disable File Generation"
+msgstr "Desactivar la generación de archivos"
+
+#: admin/uagb-general.php:183
+msgid "Enable File Generation"
+msgstr "Activar la generación de archivos"
+
+#. translators: %1$s: a tag open.
+#: admin/uagb-general.php:173
+msgid "Please read %1$s this article %2$s to know more."
+msgstr "Por favor, lee %1$s este artículo %2$s para saber más."
+
+#: admin/uagb-general.php:164
+msgid "Enabling this option will generate CSS files for Ultimate Addons for Gutenberg block styling instead of loading the CSS inline on page."
+msgstr "Activando esta opción, se generarán los archivos CSS de estilo del bloque para Ultimate Addons for Gutenberg, en lugar de cargar el CSS integrado en la página."
+
+#: lib/notices/class-astra-notices.php:120
+msgid "WordPress Nonce not validated."
+msgstr "Nonce de WordPress no validado."
+
+#: classes/class-uagb-config.php:1550
+msgid "This block allows you to place a Table of Contents for Pages/Posts."
+msgstr "Este bloque te permite colocar una tabla de contenidos en las páginas/entradas."
+
+#: classes/class-uagb-config.php:1549
+msgid "Table of Contents"
+msgstr "Tabla de contenidos"
+
+#: classes/class-uagb-config.php:541
+msgid "This block allows you to add and style your Gravity Forms right in the Gutenberg editor."
+msgstr "Este bloque te permite añadir y dar estilo a tus formularios de Gravity Forms directamente en el editor Gutenberg."
+
+#: classes/class-uagb-config.php:540
+msgid "Gravity Form Styler"
+msgstr "Diseñador de Gravity Forms"
+
+#: classes/class-uagb-init-blocks.php:307
+msgid "You have not added any Gravity Forms yet."
+msgstr "Todavía no has añadido ningún formulario de Gravity Forms."
+
+#: classes/class-uagb-admin.php:140
+msgid "Would you please mind sharing your views and give it a 5 star rating on the WordPress repository?"
+msgstr "¿Te importaría compartir tu opinión y darle una valoración de 5 estrellas en el repositorio de WordPress?"
+
+#: classes/class-uagb-admin.php:139
+msgid "Wow! The Ultimate Addons for Gutenberg has already powered over 5 pages on your website!"
+msgstr "¡Genial! Ultimate Addons for Gutenberg ya está funcionando ¡en más de 5 páginas de tu web!"
+
+#: dist/blocks/gf-styler/index.php:25
+msgid "Please select a valid Gravity Form."
+msgstr "Por favor, selecciona un formulario válido de Gravity Forms."
+
+#: classes/class-uagb-config.php:921
+msgid "This block allows you to place a Marketing Button with small description."
+msgstr "Este bloque te permite colocar un botón de marketing con una pequeña descripción."
+
+#: classes/class-uagb-config.php:920
+msgid "Marketing Button"
+msgstr "Botón de marketing"
+
+#: dist/blocks/cf7-styler/index.php:24
+msgid "Please select a valid Contact Form 7."
+msgstr "Por favor, selecciona un formulario válido de Contact Form 7."
+
+#: admin/uagb-general.php:66
+msgid "Reusable Blocks"
+msgstr "Bloques reutilizables"
+
+#: classes/class-uagb-config.php:405
+msgid "This block allows you to add and style your Contact Form 7 forms right in the Gutenberg editor."
+msgstr "Este bloque te permite añadir y dar estilo a tus formularios de Contact Form 7 directamente en el editor Gutenberg."
+
+#: classes/class-uagb-config.php:404
+msgid "Contact Form 7 Styler"
+msgstr "Diseñador de Contact Form 7"
+
+#: classes/class-uagb-init-blocks.php:274
+msgid "You have not added any Contact Form 7 yet."
+msgstr "Todavía no has añadido ningún formulario de Contact Form 7."
+
+#: classes/class-uagb-init-blocks.php:260
+#: classes/class-uagb-init-blocks.php:293 dist/blocks.build.js:89584
+#: dist/blocks.build.js:91597
+msgid "Select Form"
+msgstr "Selecciona un formulario"
+
+#: classes/class-uagb-helper.php:1092
+msgid "Full"
+msgstr "Completo"
+
+#: classes/class-uagb-config.php:240
+msgid "This block allows you to display your Blockquote."
+msgstr "Este bloque te permite mostrar una cita."
+
+#: classes/class-uagb-config.php:239
+msgid "Blockquote"
+msgstr "Cita"
+
+#: admin/uagb-general.php:147
+msgid "Activate Astra Now!"
+msgstr "¡Activa Astra ahora!"
+
+#. translators: %s: html tags
+#: classes/class-uagb-admin.php:164
+msgid "Ultimate Addons for Gutenberg requires&nbsp;%3$sBlock Editor%4$s. You can change your editor settings to Block Editor from&nbsp;%1$shere%2$s. Plugin is currently NOT RUNNING."
+msgstr "Ultimate Addons for Gutenberg necesita el&nbsp;%3$seditor de bloques%4$s. Puedes cambiar los ajustes de tu editor al editor de bloques desde&nbsp;%1$saquí%2$s. En este momento, el plugin NO ESTÁ EN FUNCIONAMIENTO."
+
+#: classes/class-uagb-admin.php:483
+msgid "Theme Successfully Activated"
+msgstr "El tema se ha activado correctamente"
+
+#: classes/class-uagb-admin.php:462
+msgid "No Theme specified"
+msgstr "No se ha especificado un tema"
+
+#: classes/class-uagb-admin.php:283
+msgid "Astra Activated!"
+msgstr "¡Astra activado!"
+
+#: classes/class-uagb-admin.php:282
+msgid "Activating Astra"
+msgstr "Activando Astra"
+
+#: classes/class-uagb-admin.php:281
+msgid "Installing Astra"
+msgstr "Instalando Astra"
+
+#: admin/uagb-general.php:145
+msgid "Install Astra Now!"
+msgstr "¡Instala Astra ahora!"
+
+#: admin/uagb-general.php:140
+msgid "Astra reduces your design time by giving you pixel-perfect FREE ready-to-use websites demos within a huge library of starter sites."
+msgstr "Astra reduce tu tiempo de diseño dándote GRATIS webs de demostración listas para usar, con diseño de píxel perfecto, dentro de una enorme biblioteca de sitios de inicio."
+
+#: admin/uagb-general.php:140
+msgid "Pixel Perfect Design - "
+msgstr "Diseño de píxel perfecto - "
+
+#: admin/uagb-general.php:139
+msgid "With all the settings managed through the customizer, Astra keeps it simple and gives you lots of options to customize everything with a few clicks."
+msgstr "Con todos los ajustes gestionados a través del personalizador, Astra se mantiene sencillo y te da muchas opciones para personalizar todo con unos pocos clics."
+
+#: admin/uagb-general.php:139
+msgid "Easy Customization - "
+msgstr "Fácil personalización - "
+
+#: admin/uagb-general.php:138
+msgid "Built with speed and performance in mind, Astra follows the best coding standards and lets you build faster loading and better performing websites."
+msgstr "Construido con la velocidad y el rendimiento en mente, Astra sigue los mejores estándares de código y te deja crear webs de carga rápida y con el mejor rendimiento."
+
+#: admin/uagb-general.php:138
+msgid "Faster Performance - "
+msgstr "Rendimiento más rápido - "
+
+#: admin/uagb-general.php:137
+msgid "Why Astra Theme?"
+msgstr "¿Por qué el tema Astra?"
+
+#: admin/uagb-general.php:136
+msgid "Join over 500,000+ active users empowering their websites with Astra! From beginners to industry leaders, everyone loves the Astra theme."
+msgstr "¡Únete a los más de 500.000 usuarios activos que potencian sus webs con Astra! Desde principiantes hasta líderes industriales, a todos les encanta el tema Astra."
+
+#: admin/uagb-general.php:132
+msgid "Free Theme for Gutenberg"
+msgstr "Tema gratis para Gutenberg"
+
+#: admin/uagb-general.php:56
+msgid "Check out the detailed knowledge base articles that will help you understand the working of each block."
+msgstr "Revisa los detallados artículos de la base de conocimiento que te ayudarán a comprender el funcionamiento de cada bloque."
+
+#: admin/uagb-general.php:55
+msgid "See Demos »"
+msgstr "Ver las demostraciones »"
+
+#: admin/uagb-general.php:54
+msgid "Wish to see some real design implementations with these blocks?"
+msgstr "¿Quieres ver algunos diseños reales con la implementación de estos bloques?"
+
+#: admin/uagb-general.php:53
+msgid "The easy-to-use and extremely powerful blocks of the Ultimate Addons for Gutenberg (UAG) are now available within your Gutenberg Editor. Search for \"UAG\" in the block inserter and see all the Ultimate Addons for Gutenberg blocks listed below. Simply click on the block you wish to add on your page or post."
+msgstr "Los bloques de Ultimate Addons for Gutenberg (UAG), fáciles de usar y extremadamente poderosos, ahora están disponibles en tu editor Gutenberg. Busca «UAG» en el buscador de bloques y mira todos los bloques listados de Ultimate Addons for Gutenberg. Simplemente haz clic en el bloque que deseas añadir a tu página o entrada."
+
+#: admin/uagb-general.php:51
+msgid "Ever-growing Library of Gutenberg Blocks"
+msgstr "La siempre creciente biblioteca de bloques de Gutenberg"
+
+#: admin/uagb-general.php:42
+msgid "Know More »"
+msgstr "Saber más »"
+
+#: admin/uagb-general.php:41
+msgid "Get professionally designed 20+ pre-built FREE starter sites built using Gutenberg, Ultimate Addons for Gutenberg and the Astra theme. These can be imported in just a few clicks. Tweak them easily and build awesome websites in minutes!"
+msgstr "Obtén GRATIS más de 20 sitios de inicio preconstruidos y diseñados profesionalmente usando Gutenberg, Ultimate Addons for Gutenberg y el tema Astra. Pueden importarse en solo unos pocos clics. Retócalos fácilmente y construye ¡fantásticas webs en minutos!"
+
+#: admin/uagb-general.php:41
+msgid "Ready-to-use Full Demo Websites - "
+msgstr "Webs completas de demostración listas para usar - "
+
+#: admin/uagb-general.php:40
+msgid "How to use the Ultimate Addons for Gutenberg Blocks »"
+msgstr "Cómo usar los bloques de Ultimate Addons for Gutenberg »"
+
+#: admin/uagb-general.php:39
+msgid "Thank you for choosing Ultimate Addons for Gutenberg - the most comprehensive library of advanced and creative blocks to build a stunning website and blog faster than ever before!"
+msgstr "Gracias por elegir Ultimate Addons for Gutenberg - la biblioteca más completa de bloques avanzados y creativos para construir una web o blog impresionante ¡más rápido que nunca!"
+
+#. translators: %s: WordPress version
+#: ultimate-addons-for-gutenberg.php:53
+msgid "Ultimate Addons for Gutenberg requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Ultimate Addons for Gutenberg necesita la versión %s o superior de WordPress. Como estás usando una versión anterior, en este momento el plugin NO ESTÁ EN FUNCIONAMIENTO."
+
+#. translators: %s: PHP version
+#: ultimate-addons-for-gutenberg.php:36
+msgid "Ultimate Addons for Gutenberg requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Ultimate Addons for Gutenberg necesita la versión %s o superior de PHP y, en este momento, el plugin NO ESTÁ EN FUNCIONAMIENTO."
+
+#: classes/class-uagb-config.php:1370
+msgid "This block allows you to add attractive Price List."
+msgstr "Este bloque te permite añadir una atractiva lista de precios."
+
+#: classes/class-uagb-config.php:1369
+msgid "Price List"
+msgstr "Lista de precios"
+
+#: classes/class-uagb-init-blocks.php:66
+msgid "Ultimate Addons Blocks"
+msgstr "Bloques de Ultimate Addons"
+
+#: classes/class-uagb-config.php:168
+msgid "This block is an immediate child of Advanced Columns."
+msgstr "Este bloque es un hijo directo de columnas avanzadas."
+
+#: classes/class-uagb-config.php:167
+msgid "Column"
+msgstr "Columna"
+
+#: classes/class-uagb-config.php:89
+msgid "This block gives you advanced options to insert a number of columns within a single row."
+msgstr "Este bloque te da opciones avanzadas para insertar un número de columnas dentro de una sola fila."
+
+#: classes/class-uagb-config.php:88
+msgid "Advanced Columns"
+msgstr "Columnas avanzadas"
+
+#: classes/class-uagb-admin.php:145
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: classes/class-uagb-admin.php:144
+msgid "Nope, maybe later"
+msgstr "No, quizá más tarde"
+
+#: classes/class-uagb-admin.php:142
+msgid "Ok, you deserve it"
+msgstr "Vale, lo mereces"
+
+#: admin/uagb-general.php:37
+msgid "Welcome to the Ultimate Addons for Gutenberg!"
+msgstr "¡Bienvenido a Ultimate Addons for Gutenberg!"
+
+#: classes/class-uagb-config.php:335
+msgid "This block allows you to place an CTA along with a heading and description within a single block."
+msgstr "Este bloque te permite colocar una llamada a la acción junto con un título y una descripción dentro de un solo bloque."
+
+#: classes/class-uagb-config.php:334 dist/blocks.build.js:69308
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+#: classes/class-uagb-config.php:1185
+msgid "This block fetches the blog posts you may have on your website and displays them in a masonry layout."
+msgstr "Este bloque busca las entradas del blog que puedes tener en tu web y las muestra en un diseño de muro."
+
+#: classes/class-uagb-config.php:1184
+msgid "Post Masonry"
+msgstr "Muro de entradas"
+
+#: admin/uagb-admin.php:30
+msgid "View Demos"
+msgstr "Ver las demostraciones"
+
+#: classes/class-uagb-config.php:1012
+msgid "This block fetches the blog posts you may have on your website and displays them in a carousel layout."
+msgstr "Este bloque busca las entradas del blog que puedes tener en tu web y las muestra en un diseño de carrusel."
+
+#: classes/class-uagb-config.php:1011
+msgid "Post Carousel"
+msgstr "Carrusel de entradas"
+
+#: classes/class-uagb-config.php:1269
+msgid "The Timeline block lets you create beautiful timelines of Posts on your website."
+msgstr "El bloque de cronología te permite crear bonitas cronologías de entradas en tu web."
+
+#: classes/class-uagb-config.php:1268
+msgid "Post Timeline"
+msgstr "Cronología de entradas"
+
+#: dist/blocks/post-timeline/index.php:572
+msgid "Untitled"
+msgstr "Sin título"
+
+#: dist/blocks/post-timeline/index.php:39
+msgid "No posts found"
+msgstr "No se han encontrado entradas"
+
+#. Description of the plugin
+msgid "The Ultimate Addons for Gutenberg extends the Gutenberg functionality with several unique and feature-rich blocks that help build websites faster."
+msgstr "Ultimate Addons for Gutenberg amplía las funciones del editor Gutenberg con varios bloques únicos y llenos de características que ayudan a construir webs más rápidamente."
+
+#: dist/blocks.build.js:3606 dist/blocks.build.js:3676
+#: dist/blocks.build.js:82955 dist/blocks.build.js:83020
+msgid "(Untitled)"
+msgstr "(Sin título)"
+
+#: classes/class-uagb-config.php:1717
+msgid "This block helps your display some amazing client feedback within your website."
+msgstr "Este bloque te ayuda a mostrar algunas fantásticas opiniones de clientes en tu web."
+
+#: classes/class-uagb-config.php:1716 dist/blocks.build.js:71299
+msgid "Testimonial"
+msgstr "Recomendación"
+
+#: classes/class-uagb-config.php:782
+msgid "Label #1"
+msgstr "Etiqueta # 1"
+
+#: classes/class-uagb-config.php:775
+msgid "This block allows you to place an image or icon in a list format."
+msgstr "Este bloque te permite colocar una imagen o icono en un formato de lista."
+
+#: classes/class-uagb-config.php:774
+msgid "Icon List"
+msgstr "Lista de iconos"
+
+#: classes/class-uagb-config.php:1646
+msgid "This block allows you to display your team. Add their picture, name, what they do and links to their social profiles."
+msgstr "Este bloque te permite mostrar a tu equipo. Añade sus fotos, sus nombres, qué hacen y enlaces a sus perfiles en redes sociales."
+
+#: classes/class-uagb-config.php:1645
+msgid "Team"
+msgstr "Equipo"
+
+#: classes/class-uagb-config.php:1516
+msgid "This block allows you to let users share your content across various social networking sites."
+msgstr "Este bloque te permite dejar que tus usuarios compartan tu contenido a través de varios sitios de redes sociales."
+
+#: classes/class-uagb-config.php:1515 dist/blocks.build.js:75048
+msgid "Social Share"
+msgstr "Compartir en redes sociales"
+
+#: classes/class-uagb-config.php:694
+msgid "The Timeline block lets you create beautiful timelines on your website."
+msgstr "El bloque de cronología te permite crear bonitas cronologías en tu web."
+
+#: classes/class-uagb-config.php:693 dist/blocks.build.js:79432
+msgid "Content Timeline"
+msgstr "Cronología de contenidos"
+
+#: classes/class-uagb-config.php:1442
+msgid "This block is an outer wrap section that allows you to add other blocks within it."
+msgstr "Este bloque es una sección de envoltorio exterior que te permite añadir otros bloques dentro de él."
+
+#: classes/class-uagb-config.php:1102
+msgid "This block fetches the blog posts you may have on your website and displays them in a grid layout."
+msgstr "Este bloque busca las entradas del blog que puedes tener en tu web y las muestra en un diseño de cuadrícula."
+
+#: classes/class-uagb-config.php:1101
+msgid "Post Grid"
+msgstr "Cuadrícula de entradas"
+
+#: classes/class-uagb-config.php:994
+msgid "This block allows you to add multiple buttons with a single block."
+msgstr "Este bloque te permite añadir múltiples botones con un solo bloque."
+
+#: classes/class-uagb-config.php:826
+msgid "This block allows you to place an image or icon along with a heading and description within a single block."
+msgstr "Este bloque te permite colocar una imagen o icono junto a un título y una descripción dentro de un solo bloque."
+
+#: classes/class-uagb-config.php:765
+msgid "This block allows you to place a Google Map Location."
+msgstr "Este bloque te permite colocar un mapa de Google con una ubicación."
+
+#: classes/class-uagb-config.php:47
+msgid "This block lets you add a combination of a heading and a sub-heading with a separator in between."
+msgstr "Este bloque te permite añadir una combinación de un título y un subtítulo con un separador en medio."
+
+#: classes/class-uagb-admin.php:280
+msgid "Disable Beta Updates"
+msgstr "Desactivar las actualizaciones beta"
+
+#: classes/class-uagb-admin.php:279
+msgid "Enable Beta Updates"
+msgstr "Activar las actualizaciones beta"
+
+#: admin/uagb-general.php:23
+msgid "Submit a Ticket »"
+msgstr "Enviar un tique »"
+
+#. translators: %1$s: uagb name.
+#: admin/uagb-general.php:217
+msgid "Got a question? Get in touch with %1$s developers. We're happy to help!"
+msgstr "¿Tienes una pregunta? Contacta con los desarrolladores de %1$s. ¡Estamos encantados de ayudar!"
+
+#: admin/uagb-general.php:210
+msgid "Five Star Support"
+msgstr "Soporte de cinco estrellas"
+
+#: admin/uagb-general.php:57 admin/uagb-general.php:204
+msgid "Visit Knowledge Base »"
+msgstr "Visitar la base de conocimiento »"
+
+#: admin/uagb-general.php:202
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr "¿No estás seguro de cómo funciona algo? Echa un vistazo a la base de conocimiento y aprende."
+
+#: admin/uagb-general.php:198
+msgid "Knowledge Base"
+msgstr "Base de conocimiento"
+
+#: classes/class-uagb-admin.php:278 admin/uagb-general.php:95
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: classes/class-uagb-admin.php:277 admin/uagb-general.php:88
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/uagb-general.php:65
+msgid "Deactivate All"
+msgstr "Desactivar todo"
+
+#: admin/uagb-general.php:64
+msgid "Activate All"
+msgstr "Activar todo"
+
+#: admin/uagb-general.php:62
+msgid "Blocks"
+msgstr "Bloques"
+
+#: dist/blocks.build.js:49609 dist/blocks.build.js:51368
+#: dist/blocks.build.js:60253 dist/blocks.build.js:67658
+#: dist/blocks.build.js:71848 dist/blocks.build.js:75349
+#: dist/blocks.build.js:75985 dist/blocks.build.js:77224
+#: dist/blocks.build.js:78575 dist/blocks.build.js:80604
+#: dist/blocks.build.js:89582 dist/blocks.build.js:91595
+#: dist/blocks.build.js:96101 dist/blocks.build.js:97914
+msgid "General"
+msgstr "General"
+
+#: admin/uagb-admin.php:39
+msgid "Settings saved successfully."
+msgstr "Los ajustes se han guardado correctamente."
+
+#: admin/uagb-admin.php:29
+msgid "Take Gutenberg to The Next Level! - "
+msgstr "¡Lleva a Gutenberg al siguiente nivel! - "
+
+#: classes/class-uagb-config.php:1091 classes/class-uagb-config.php:1174
+#: classes/class-uagb-config.php:1258 dist/blocks/post/index.php:344
+#: dist/blocks/post/index.php:722 dist/blocks/post/index.php:1137
+#: dist/blocks/post/index.php:1826 dist/blocks.build.js:3934
+msgid "Read More"
+msgstr "Leer más"
+
+#: classes/class-uagb-config.php:764
+msgid "Google Map"
+msgstr "Mapa de Google"
+
+#: classes/class-uagb-config.php:993
+msgid "Multi Buttons"
+msgstr "Multibotones"
+
+#: classes/class-uagb-config.php:825
+msgid "Info Box"
+msgstr "Caja de información"
+
+#: classes/class-uagb-config.php:46 dist/blocks.build.js:11284
+msgid "Advanced Heading"
+msgstr "Encabezado avanzado"
+
+#: classes/class-uagb-config.php:1441
+msgid "Section"
+msgstr "Sección"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. Plugin Name of the plugin
+#: admin/uagb-general.php:31
+msgid "Ultimate Addons for Gutenberg"
+msgstr "Ultimate Addons for Gutenberg"
+
+#: classes/class-uagb-loader.php:166
+msgid "Install Gutenberg"
+msgstr "Instalar Gutenberg"
+
+#: classes/class-uagb-loader.php:159
+msgid "Activate Gutenberg"
+msgstr "Activar Gutenberg"
+
+#. translators: %s: html tags
+#: classes/class-uagb-loader.php:149
+msgid "The %1$sUltimate Addon for Gutenberg%2$s plugin requires %1$sGutenberg%2$s plugin installed & activated."
+msgstr "El plugin %1$sUltimate Addon for Gutenberg%2$s necesita que el plugin %1$sGutenberg%2$s esté instalado y activado."
